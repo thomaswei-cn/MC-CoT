@@ -2,6 +2,10 @@ import json
 import os
 
 
+def format_output_filepath(language_model_name, visual_model_name, method, dataset_name):
+    return f'./outputs/{language_model_name}/{visual_model_name}/{method}/{method}_{dataset_name}.jsonl'
+
+
 def format_json_out_put(question, answer, output, idx, json_filename):
     sample = {
         "id": idx,

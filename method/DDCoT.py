@@ -1,6 +1,6 @@
 import re
 from tqdm import tqdm
-from utils.output_utils import format_json_out_put, filter_finished, ensure_dir
+from utils.output_utils import format_json_out_put, filter_finished, ensure_dir, format_output_filepath
 from utils.register import register_class, registry
 from .base_method import BaseMethod
 
@@ -21,7 +21,7 @@ def get_prompt_2(question, preliminary_knowledge):
 class DDCoT(BaseMethod):
     def __init__(self, dataset, args):
         self.dataset = dataset
-        self.output_file_path = f'./outputs/{args.language_model_name}/{args.visual_model_name}/{args.method}/{args.method}_{dataset}.jsonl'
+        self.output_file_path = format_output_filepath(args.language_model_name, args.visual_model_name, args.method, args.dataset_name)
         ensure_dir(self.output_file_path)
         self.max_retries = args.max_retries
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)

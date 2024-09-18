@@ -1,7 +1,7 @@
 from tqdm import tqdm
 from utils.register import register_class, registry
 from .base_method import BaseMethod
-from utils.output_utils import ensure_dir, format_json_out_put, filter_finished
+from utils.output_utils import ensure_dir, format_json_out_put, filter_finished, format_output_filepath
 
 
 def get_llm_guide(question, domain):
@@ -39,7 +39,7 @@ def get_final_prompt(question, rationale):
 class IICoT(BaseMethod):
     def __init__(self, dataset, args):
         self.dataset = dataset
-        self.output_file_path = f'./outputs/{args.language_model_name}/{args.visual_model_name}/{args.method}/{args.method}_{dataset}.jsonl'
+        self.output_file_path = format_output_filepath(args.language_model_name, args.visual_model_name, args.method, args.dataset_name)
         ensure_dir(self.output_file_path)
         self.max_retries = args.max_retries
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)
