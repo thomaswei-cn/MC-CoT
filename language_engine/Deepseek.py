@@ -5,7 +5,7 @@ from .base_language_engine import BaseLanguageEngine
 
 
 
-@register_class(alias="Engine.Deepseek")
+@register_class(alias="Deepseek")
 class DeepseekEngine(BaseLanguageEngine):
     def __init__(self, device=0, model_name="deepseek-chat", temperature=0.0, seed=127):
         deepseek_api_key = os.environ.get('Deepseek_API_KEY')

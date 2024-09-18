@@ -11,24 +11,22 @@ export Dashscope_API_KEY=
 export Qwen2_API_BASE=
 
 
-python run.py --method Method.MCCOT \
-      --language_model_name Engine.Qwen2 \
-      --visual_model_name Engine.LLava \
+python run.py --method MCCOT \
+      --language_model_name Qwen2 \
+      --visual_model_name LLava \
       --dataset_name Slake \
-      --slake_path /data/M4_data/Slake1.0 \
-      --output_file_path ./outputs/qwen2/llava/MCCOT/MCCOT_Slake.jsonl
+      --slake_path /data/M4_data/Slake1.0
 
 
-python run.py --method Method.MCCOT \
-      --language_model_name Engine.Qwen2 \
-      --visual_model_name Engine.LLava \
+python run.py --method MCCOT \
+      --language_model_name Qwen2 \
+      --visual_model_name LLava \
       --dataset_name PATH-VQA \
-      --path_vqa_path /data/M4_data/PATH-VQA \
-      --output_file_path ./outputs/qwen2/llava/MCCOT/MCCOT_PATH-VQA.jsonl
+      --path_vqa_path /data/M4_data/PATH-VQA
 
-python run.py --method Method.MCCOT \
-      --language_model_name Engine.Qwen2 \
-      --visual_model_name Engine.LLava \
+
+python run.py --method MCCOT \
+      --language_model_name Qwen2 \
+      --visual_model_name LLava \
       --dataset_name VQA-RAD \
-      --vqa_rad_path /data/M4_data/VQA-RAD \
-      --output_file_path ./outputs/qwen2/llava/MCCOT/MCCOT_VQA-RAD_open.jsonl
+      --vqa_rad_path /data/M4_data/VQA-RAD

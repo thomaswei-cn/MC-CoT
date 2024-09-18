@@ -6,7 +6,7 @@ from .base_language_engine import BaseLanguageEngine
 import time
 
 
-@register_class(alias="Engine.GPT")
+@register_class(alias="GPT")
 class GPTEngine(BaseLanguageEngine):
     def __init__(self, model_name="gpt-3.5-turbo", temperature=0.0, seed=127):
         openai_api_key = os.environ.get('OPENAI_API_KEY')

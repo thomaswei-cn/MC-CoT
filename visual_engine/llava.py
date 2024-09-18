@@ -4,7 +4,7 @@ from utils.register import register_class
 from .base_visual_engine import BaseVisualEngine
 
 
-@register_class(alias="Engine.LLava")
+@register_class(alias="LLava")
 class LLavaEngine(BaseVisualEngine):
     def __init__(self, temperature=0.0, max_tokens=2500, device=0):
         self.model_id = "llava-hf/llava-1.5-7b-hf"

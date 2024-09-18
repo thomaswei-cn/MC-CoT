@@ -4,7 +4,7 @@ from .base_language_engine import BaseLanguageEngine
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
-@register_class(alias="Engine.ChatGLM")
+@register_class(alias="ChatGLM")
 class ChatGLMEngine(BaseLanguageEngine):
     def __init__(self, device=0, model_name="THUDM/glm-4-9b-chat", temperature=0.0, seed=127):
         self.model_name = model_name

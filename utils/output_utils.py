@@ -58,11 +58,3 @@ def temp_examine(json_filename):
             json_file.write(line)
     print(log)
 
-
-if __name__ == '__main__':
-    json_filename = 'D:\PostGraduate\M4_new\outputs\M3S\multi_choices\M3S_PMC_VQA.jsonl'
-    temp_examine(json_filename)
-    # format_json_out_put('question', 'answer', 'output', 1, json_filename)
-    # format_json_out_put('question', 'answer', 'output', 2, json_filename)
-    # format_json_out_put('question', 'answer', 'output', 3, json_filename)
-    # temp_examine(json_filename)

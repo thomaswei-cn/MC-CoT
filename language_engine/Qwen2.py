@@ -5,7 +5,7 @@ from .base_language_engine import BaseLanguageEngine
 
 
 
-@register_class(alias="Engine.Qwen2")
+@register_class(alias="Qwen2")
 class Qwen2Engine(BaseLanguageEngine):
     def __init__(self, device=0, model_name='qwen2-72b-instruct', temperature=0.0, seed=127):
         dashscope_api_key = os.environ.get('Dashscope_API_KEY')

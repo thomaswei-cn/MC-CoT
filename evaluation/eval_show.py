@@ -44,10 +44,10 @@ class EvalShower:
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--method', nargs='+', type=str, default=['M3'])
-    parser.add_argument('--dataset_name', type=str, nargs='+', default=['Slake', 'PATH', 'RAD'],
-                        choices=['Slake', 'PATH', 'RAD'])
-    parser.add_argument('--v_model', choices=['qwen', 'qwen-max', 'deepseek', 'llava'], default='llava')
-    parser.add_argument('--l_model', choices=['gpt3.5', 'deepseek', 'qwen2', 'chatGLM'], default='gpt3.5')
+    parser.add_argument('--dataset_name', type=str, nargs='+', default=['Slake', 'PATH-VQA', 'VQA-RAD'],
+                        choices=['Slake', 'PATH-VQA', 'VQA-RAD'])
+    parser.add_argument('--v_model', choices=['QwenVL', 'QwenVL-Max', 'DeepseekVL', 'LLava'], default='LLava')
+    parser.add_argument('--l_model', choices=['GPT', 'Deepseek', 'ChatGLM', 'Qwen2'], default=['GPT'])
     args = parser.parse_args()
     return args
 

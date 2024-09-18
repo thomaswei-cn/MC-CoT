@@ -1,7 +1,7 @@
-from .gpt import GPTEngine
-from .qwen_2 import Qwen2Engine
-from .deepseek import DeepseekEngine
-from .chatGLM import ChatGLMEngine
+from .GPT import GPTEngine
+from .Qwen2 import Qwen2Engine
+from .Deepseek import DeepseekEngine
+from .ChatGLM import ChatGLMEngine
 
 __all__ = [
     "GPTEngine",

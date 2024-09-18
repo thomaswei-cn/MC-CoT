@@ -10,27 +10,22 @@ echo "Qwen2"
 export Dashscope_API_KEY=
 export Qwen2_API_BASE=
 
-python run.py --method Method.VisualOnly \
-      --language_model_name Engine.Qwen2 \
-      --visual_model_name Engine.LLava \
+python run.py --method VisualOnly \
+      --language_model_name Qwen2 \
+      --visual_model_name LLava \
       --dataset_name Slake \
-      --slake_path /data/M4_data/Slake1.0 \
-      --question_type open \
-      --output_file_path ./outputs/qwentest/llava/only/only_Slake.jsonl
+      --slake_path /data/M4_data/Slake1.0
 
 
-python run.py --method Method.VisualOnly \
-      --language_model_name Engine.GPT \
-      --visual_model_name Engine.LLava \
+python run.py --method VisualOnly \
+      --language_model_name GPT \
+      --visual_model_name LLava \
       --dataset_name PATH-VQA \
-      --path_vqa_path /data/M4_data/PATH-VQA \
-      --question_type open \
-      --output_file_path ./outputs/Col/open/Col_PATH-VQA.jsonl
+      --path_vqa_path /data/M4_data/PATH-VQA
 
-python run.py --method Method.VisualOnly \
-      --language_model_name Engine.GPT \
-      --visual_model_name Engine.LLava \
+
+python run.py --method VisualOnly \
+      --language_model_name GPT \
+      --visual_model_name LLava \
       --dataset_name VQA-RAD \
-      --vqa_rad_path /data/M4_data/VQA-RAD \
-      --question_type open \
-      --output_file_path ./outputs/Col/open/Col_VQA-RAD.jsonl
+      --vqa_rad_path /data/M4_data/VQA-RAD

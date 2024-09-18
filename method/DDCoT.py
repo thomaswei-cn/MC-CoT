@@ -17,11 +17,11 @@ def get_prompt_2(question, preliminary_knowledge):
     return sys, user
 
 
-@register_class(alias="Method.DDCoT")
+@register_class(alias="DDCoT")
 class DDCoT(BaseMethod):
     def __init__(self, dataset, args):
         self.dataset = dataset
-        self.output_file_path = args.output_file_path
+        self.output_file_path = f'./outputs/{args.language_model_name}/{args.visual_model_name}/{args.method}/{args.method}_{dataset}.jsonl'
         ensure_dir(self.output_file_path)
         self.max_retries = args.max_retries
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)

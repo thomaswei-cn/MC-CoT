@@ -10,11 +10,11 @@ def get_prompt(question):
     return prompt
 
 
-@register_class(alias="Method.VisualOnly")
+@register_class(alias="VisualOnly")
 class VisualOnly(BaseMethod):
     def __init__(self, dataset, args):
         self.dataset = dataset
-        self.output_file_path = args.output_file_path
+        self.output_file_path = f'./outputs/{args.language_model_name}/{args.visual_model_name}/{args.method}/{args.method}_{dataset}.jsonl'
         ensure_dir(self.output_file_path)
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)
 

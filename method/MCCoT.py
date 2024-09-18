@@ -5,18 +5,6 @@ from utils.register import register_class, registry
 from .base_method import BaseMethod
 
 
-def parse_domain(dataset_name):
-    if dataset_name == "Slake":
-        domain = "slake"
-    elif dataset_name == "PATH-VQA":
-        domain = "path"
-    elif dataset_name == "VQA-RAD":
-        domain = "rad"
-    else:
-        domain = ""
-    return domain
-
-
 def match_tasks(decision):
     pattern_radiology = r"Radiology Module:\s+((?: *- .+?\n)+)|Radiology Module:\s+(.+?)(?=\n2\.)"
     pattern_anatomy = r"Anatomy Module:\s+((?: *- .+?\n)+)|Anatomy Module:\s+(.+?)(?=\n2\.)"
@@ -35,7 +23,7 @@ def is_module_required(text):
     return False
 
 
-def get_description_prompt(question, domain):
+def get_description_prompt(question):
     prompt = (f"You're good at answering questions. Here is a question: {question}.\n"
               f"Please provide detailed descriptions of the features which you think is relative to the question.\n"
               "You should focus on the image's content, "
@@ -45,7 +33,7 @@ def get_description_prompt(question, domain):
     return prompt
 
 
-def get_decision_prompt(question, description, domain):
+def get_decision_prompt(question, description):
     prompt_pt1 = (
         "You are a advanced question-answering agent equipped with 3 specialized modules to aid in analyzing and responding to questions about medical images:\n\n"
         "1. Radiology Module:\n"
@@ -130,13 +118,12 @@ def get_integrate_answer_prompt(question, rad, atm, pth, des):
     return prompt
 
 
-@register_class(alias="Method.MCCoT")
+@register_class(alias="MCCoT")
 class MCCoT(BaseMethod):
     def __init__(self, dataset, args):
         self.dataset = dataset
         self.modules = ["radiology", "anatomy", "pathology"]
-        self.domain = parse_domain(args.dataset_name)
-        self.output_file_path = args.output_file_path
+        self.output_file_path = f'./outputs/{args.language_model_name}/{args.visual_model_name}/{args.method}/{args.method}_{dataset}.jsonl'
         ensure_dir(self.output_file_path)
         self.max_retries = args.max_retries
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)
@@ -154,10 +141,10 @@ class MCCoT(BaseMethod):
             for idx in tqdm(todo_list):
                 mllm_answer_dict = {}
                 img, question, answer = self.dataset[idx]
-                description = self.v_engine.get_response(get_description_prompt(question, self.domain), img)
+                description = self.v_engine.get_response(get_description_prompt(question), img)
                 if self.ff_print:
                     print(f"Description: {description}")
-                decision = self.l_engine.get_response(get_decision_prompt(question, description, self.domain))
+                decision = self.l_engine.get_response(get_decision_prompt(question, description))
                 if self.ff_print:
                     print(f"Decision: {decision}")
                 if decision is None:

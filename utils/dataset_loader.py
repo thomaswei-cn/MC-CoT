@@ -1,10 +1,6 @@
 import os.path
 import pandas as pd
-import random
 from PIL import Image
-
-random.seed(127)
-random_pmc = random.sample(range(0, 50000), 1000)
 
 
 class DatasetLoader:
