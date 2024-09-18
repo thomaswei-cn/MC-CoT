@@ -1,10 +1,8 @@
 import os
-
 from openai import OpenAI
-
 from utils.register import register_class
 from .base_language_engine import BaseLanguageEngine
-from transformers import AutoModelForCausalLM, AutoTokenizer
+
 
 
 @register_class(alias="Engine.Qwen2")

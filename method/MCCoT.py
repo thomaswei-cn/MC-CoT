@@ -6,9 +6,7 @@ from .base_method import BaseMethod
 
 
 def parse_domain(dataset_name):
-    if dataset_name == "PMC-VQA":
-        domain = "pmc"
-    elif dataset_name == "Slake":
+    if dataset_name == "Slake":
         domain = "slake"
     elif dataset_name == "PATH-VQA":
         domain = "path"

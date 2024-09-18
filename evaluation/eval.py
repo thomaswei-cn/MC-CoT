@@ -2,11 +2,8 @@ import argparse
 import json
 import os
 import re
-import random
 from transformers import AutoTokenizer
-
 from eval_recall import calculate
-
 from openai import OpenAI
 from tqdm import tqdm
 import concurrent
@@ -55,17 +52,6 @@ def read_jsonl_file(filepath):
     return data
 
 
-def map_dataset_name(dataset_name):
-    if dataset_name == 'Slake':
-        return 'Slake'
-    elif dataset_name == 'PATH':
-        return 'PATH-VQA'
-    elif dataset_name == 'RAD':
-        return 'VQA-RAD'
-    else:
-        raise ValueError(f"Invalid dataset name: {dataset_name}")
-
-
 def format_eval_output(question, answer, output, idx, score, json_filename):
     sample = {
         "id": idx,
@@ -80,14 +66,14 @@ def format_eval_output(question, answer, output, idx, score, json_filename):
         json_file.write(json.dumps(sample) + '\n')
 
 
-def get_gpt_response(sys, user, client, model):
+def get_gpt_response(sys, user, client):
     response = None
     i = 0
     message = [{'role': 'system', 'content': sys},
                {'role': 'user', 'content': user}]
     while i < 3:
         response = client.chat.completions.create(
-            model=model,
+            model="deepseek-chat",
             messages=message,
             temperature=0,
             seed=127,
@@ -131,16 +117,14 @@ def parse_pred(predicted_answer):
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--method', nargs='+', type=str, default=['M3'])
-    parser.add_argument('--dataset_name', type=str, nargs='+', default=['Slake', 'PATH', 'RAD'],
-                        choices=['Slake', 'PATH', 'RAD'])
+    parser.add_argument('--method', nargs='+', type=str, default=['MCCoT'])
+    parser.add_argument('--dataset_name', type=str, nargs='+', default=['Slake', 'PATH-VQA', 'VQA-RAD'],
+                        choices=['Slake', 'PATH-VQA', 'VQA-RAD'])
     parser.add_argument('--v_model', nargs='+', choices=['qwen', 'qwen-max', 'deepseek', 'llava'], default=['llava'])
     parser.add_argument('--l_model', nargs='+', choices=['gpt3.5', 'deepseek', 'chatGLM', 'qwen2'], default=['gpt3.5'])
     parser.add_argument('--openai_api_key', type=str, default=None)
     parser.add_argument('--openai_api_base', type=str, default=None)
-    parser.add_argument('--mode', type=str, default='gpt-acc', choices=['gpt-acc', 'recall'])
-    parser.add_argument('--model', type=str, default='gpt-3.5-turbo',
-                        choices=['gpt-3.5-turbo', 'gpt-4o', 'deepseek-chat'])
+    parser.add_argument('--mode', type=str, default='acc', choices=['acc', 'recall'])
     parser.add_argument('--parallel', default=False, action='store_true')
     parser.add_argument('--max_workers', type=int, default=4)
     args = parser.parse_args()
@@ -157,50 +141,47 @@ class Evaluator:
         self.max_workers = args.max_workers
         self.mode = args.mode
 
-        if self.mode == 'gpt-acc':
-            openai_api_key = getattr(args, "openai_api_key", None)
-            openai_api_key = openai_api_key if openai_api_key is not None else os.environ.get('OPENAI_API_KEY')
-            assert openai_api_key is not None
-            openai_api_base = getattr(args, "openai_api_base", None)
-            openai_api_base = openai_api_base if openai_api_base is not None else os.environ.get('OPENAI_API_BASE')
-            self.model = args.model
+        if self.mode == 'acc':
+            deepseek_api_key = os.environ.get('Deepseek_API_KEY')
+            assert deepseek_api_key is not None
+            openai_api_base = os.environ.get('Deepseek_API_BASE')
 
             if openai_api_base is not None:
                 self.client = OpenAI(
-                    api_key=openai_api_key,
+                    api_key=deepseek_api_key,
                     base_url=openai_api_base
                 )
             else:
                 self.client = OpenAI(
-                    api_key=openai_api_key,
+                    api_key=deepseek_api_key,
                 )
         else:
             self.tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
 
     def run(self):
-        for l_model in self.l_model:
-            print(f"Language Model: {l_model}")
-            for model in self.v_model:
-                print(f"Visual Model: {model}")
+        for l in self.l_model:
+            print(f"Language Model: {l}")
+            for v in self.v_model:
+                print(f"Visual Model: {v}")
                 for m in self.method:
                     print(f"Method: {m}")
                     if self.mode == "recall":
                         sum_recall = 0
                     for d in self.dataset_name:
                         print(f"Dataset: {d}")
-                        file_path = f'../outputs/{l_model}/{model}/{m}/{m}_{d}_open.jsonl'
-                        if self.mode == 'gpt-acc':
-                            self.output_file_path = f'../outputs/eval/{l_model}/{model}/{m}/{m}_{d}_open_eval.jsonl'
-                            ensure_dir(self.output_file_path)
+                        file_path = f'../outputs/{l}/{v}/{m}/{m}_{d}.jsonl'
                         if not os.path.exists(file_path):
                             raise FileNotFoundError(f"File not found: {file_path}")
+                        if self.mode == 'acc':
+                            self.output_file_path = f'../outputs/eval/{l}/{v}/{m}/{m}_{d}_eval.jsonl'
+                            ensure_dir(self.output_file_path)
                         data = read_jsonl_file(file_path)
-                        if self.mode == 'gpt-acc':
+                        if self.mode == 'acc':
                             todo_list = filter_finished(len(data), self.output_file_path)
                             if self.parallel:
                                 with concurrent.futures.ThreadPoolExecutor(max_workers=self.max_workers) as executor:
                                     # 使用 map 来简化提交任务和获取结果的过程
-                                    futures = [executor.submit(self._eval_one, data[idx], map_dataset_name(d)) for idx
+                                    futures = [executor.submit(self._eval_one, data[idx], d) for idx
                                                in todo_list]
                                     for _ in tqdm(concurrent.futures.as_completed(futures),
                                                   total=len(todo_list)):
@@ -208,7 +189,7 @@ class Evaluator:
                             else:
                                 for idx in tqdm(todo_list):
                                     item = data[idx]
-                                    self._eval_one(item, map_dataset_name(d))
+                                    self._eval_one(item, d)
                         else:
                             total_recall = 0
                             for item in data:
@@ -221,7 +202,7 @@ class Evaluator:
 
     def _eval_one(self, item, dataset_name):
         sys, user = get_eval_acc_prompt(item['question'], item['answer'], item['pred'], dataset_name)
-        response = get_gpt_response(sys, user, self.client, self.model)
+        response = get_gpt_response(sys, user, self.client)
         if response is None:
             score = 1
         else:

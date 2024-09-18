@@ -1,38 +1,19 @@
 echo "Deepseek"
-export OPENAI_API_KEY=
-export OPENAI_API_BASE=
-conda activate M4
+export Deepseek_API_KEY=
+export Deepseek_API_BASE=
 
-nohup python eval.py \
-      --model deepseek-chat \
+python eval.py \
       --mode recall \
-      --method qvix ddcot IICoT  M3 \
+      --method MCCoT IICoT \
       --dataset_name PATH RAD Slake \
       --v_model llava\
       --l_model chatGLM qwen2 deepseek \
-      --parallel \
-      --max_workers 8
-
-
-nohup python eval.py \
-      --model gpt-3.5-turbo \
-      --mode recall \
-      --method M3-noana M3-nopth M3-norad M3 \
-      --dataset_name PATH RAD Slake \
-      --v_model llava \
-      --parallel \
-      --max_workers 8
 
 python eval.py \
-      --mode recall \
-      --method M3 only ddcot cot ga \
+      --mode acc \
+      --method MCCoT IICoT \
       --dataset_name PATH RAD Slake \
-      --v_model llava qwen qwen-max deepseek
-
-
-python eval.py \
-      --mode recall \
-      --method cantor-med ccot check dga idealgpt M3-noana M3-nodes M3-noguide \
-      M3-nopth M3-norad M3-v mmcot ps qvix \
-      --dataset_name PATH RAD Slake \
-      --v_model llava
+      --v_model llava qwen-max \
+      --l_model gpt3.5 \
+      --parallel \
+      --max_workers 8

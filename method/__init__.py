@@ -1,5 +1,5 @@
 from .MCCoT import MCCoT
-from .visual_only import VisualOnly
+from .VisualOnly import VisualOnly
 from .Qvix import Qvix
 from .MMCoT import MMCoT
 from .DDCoT import DDCoT

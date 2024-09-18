@@ -10,27 +10,27 @@ echo "Qwen2"
 export Dashscope_API_KEY=
 export Qwen2_API_BASE=
 
-nohup python run.py --method Method.VisualOnly \
-      --language_model_name Engine.Qwen2 \
+python run.py --method Method.MMCoT \
+      --language_model_name Engine.GPT \
       --visual_model_name Engine.LLava \
       --dataset_name Slake \
       --slake_path /data/M4_data/Slake1.0 \
       --question_type open \
-      --output_file_path ./outputs/qwentest/llava/only/only_Slake_open.jsonl > Col_Slake_open.txt
+      --output_file_path ./outputs/llava/mmcot/mmcot_Slake.jsonl
 
 
-nohup python run.py --method Method.VisualOnly \
+python run.py --method Method.MMCoT \
       --language_model_name Engine.GPT \
       --visual_model_name Engine.LLava \
       --dataset_name PATH-VQA \
       --path_vqa_path /data/M4_data/PATH-VQA \
       --question_type open \
-      --output_file_path ./outputs/Col/open/Col_PATH_open.jsonl > Col_PATH_open.txt
+      --output_file_path ./outputs/MMCoT/open/MMCoT_PATH-VQA.jsonl
 
-nohup python run.py --method Method.VisualOnly \
+python run.py --method Method.MMCoT \
       --language_model_name Engine.GPT \
       --visual_model_name Engine.LLava \
       --dataset_name VQA-RAD \
       --vqa_rad_path /data/M4_data/VQA-RAD \
       --question_type open \
-      --output_file_path ./outputs/Col/open/Col_RAD_open.jsonl > Col_RAD_open.txt
+      --output_file_path ./outputs/MMCoT/open/MMCoT_VQA-RAD.jsonl

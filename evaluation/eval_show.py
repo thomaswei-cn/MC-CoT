@@ -28,7 +28,7 @@ class EvalShower:
             print(f"Method: {m}")
             sum = 0
             for d in self.dataset_name:
-                output_file_path = f'../outputs/eval/{self.l_model}/{self.v_model}/{m}/{m}_{d}_open_eval.jsonl'
+                output_file_path = f'../outputs/eval/{self.l_model}/{self.v_model}/{m}/{m}_{d}_eval.jsonl'
                 total_score, total_len = get_total_score_with_len(output_file_path)
                 if total_score == -1:
                     print(f"Dataset: {d}, No Data")
