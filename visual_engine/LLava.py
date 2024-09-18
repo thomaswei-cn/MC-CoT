@@ -16,7 +16,7 @@ class LLavaEngine(BaseVisualEngine):
         self.temperature = temperature
         self.max_tokens = max_tokens
 
-    def get_response(self, user_input, image):
+    def get_response(self, user_input, image, image_path):
         prompt = "USER: <image>\n" + user_input + "\nASSISTANT:"
         inputs = self.processor(prompt, image, return_tensors='pt').to(self.device, torch.float16)
         output = self.model.generate(**inputs, max_new_tokens=self.max_tokens, do_sample=False)

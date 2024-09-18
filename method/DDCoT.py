@@ -35,7 +35,7 @@ class DDCoT(BaseMethod):
                 print("All questions have been answered.")
                 return
             for idx in tqdm(todo_list):
-                img, question, answer = self.dataset[idx]
+                img, question, answer, img_path = self.dataset[idx]
                 sys1, user1 = get_prompt_1(question)
                 response = self.l_engine.get_response(user1, sys1)
                 if response is None:
@@ -68,7 +68,7 @@ class DDCoT(BaseMethod):
                     for sub_q, sub_a in zip(sub_questions, sub_answers):
                         reform_sub_q = f"Question: {sub_q} Answer:"
                         if any(keyword in sub_a for keyword in keywords):
-                            text = self.v_engine.get_response(reform_sub_q, img)
+                            text = self.v_engine.get_response(reform_sub_q, img, img_path)
                             if text is None:
                                 text = " "
                             preliminary_knowledge += reform_sub_q + text + "\n"

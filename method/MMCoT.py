@@ -25,9 +25,9 @@ class MMCoT(BaseMethod):
     def run(self):
         todo_list = filter_finished(len(self.dataset), self.output_file_path)
         for idx in tqdm(todo_list):
-            img, question, answer = self.dataset[idx]
+            img, question, answer, img_path = self.dataset[idx]
             prompt = get_prompt_1(question)
-            rationale = self.v_engine.get_response(prompt, img)
+            rationale = self.v_engine.get_response(prompt, img, img_path)
             prompt_2 = get_prompt_2(question, rationale)
-            response = self.v_engine.get_response(prompt_2, img)
+            response = self.v_engine.get_response(prompt_2, img, img_path)
             format_json_out_put(question, answer, response, idx, self.output_file_path)

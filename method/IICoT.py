@@ -57,12 +57,12 @@ class IICoT(BaseMethod):
 
     def _run_list(self, todo_list):
         for idx in tqdm(todo_list):
-            img, question, answer = self.dataset[idx]
+            img, question, answer, img_path = self.dataset[idx]
             guide_prompt = get_llm_guide(question, self.dataset.dataset_name)
             guide = self.l_engine.get_response(guide_prompt)
             rationale_prompt = get_rationale_with_guide(question, guide)
-            rationale = self.v_engine.get_response(rationale_prompt, img)
+            rationale = self.v_engine.get_response(rationale_prompt, img, img_path)
             final_prompt = get_final_prompt(question, rationale)
-            response = self.v_engine.get_response(final_prompt, img)
+            response = self.v_engine.get_response(final_prompt, img, img_path)
             if response is not None:
                 format_json_out_put(question, answer, response, idx, self.output_file_path)

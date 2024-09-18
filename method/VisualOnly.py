@@ -21,7 +21,7 @@ class VisualOnly(BaseMethod):
     def run(self):
         todo_list = filter_finished(len(self.dataset), self.output_file_path)
         for idx in tqdm(todo_list):
-            img, question, answer = self.dataset[idx]
+            img, question, answer, img_path = self.dataset[idx]
             prompt = get_prompt(question)
-            response = self.v_engine.get_response(prompt, img)
+            response = self.v_engine.get_response(prompt, img, img_path)
             format_json_out_put(question, answer, response, idx, self.output_file_path)

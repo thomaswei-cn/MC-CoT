@@ -50,7 +50,7 @@ class DatasetLoader:
             img = Image.open(img_path)
             question = row_dict['question']
             answer = row_dict['answer']
-            data = (img, question, answer)
+            data = (img, question, answer, img_path)
             return data
         else:
             raise Exception("Dataset index out of range")

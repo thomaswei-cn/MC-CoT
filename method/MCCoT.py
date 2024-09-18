@@ -140,8 +140,8 @@ class MCCoT(BaseMethod):
                 return
             for idx in tqdm(todo_list):
                 mllm_answer_dict = {}
-                img, question, answer = self.dataset[idx]
-                description = self.v_engine.get_response(get_description_prompt(question), img)
+                img, question, answer, img_path = self.dataset[idx]
+                description = self.v_engine.get_response(get_description_prompt(question), img, img_path)
                 if self.ff_print:
                     print(f"Description: {description}")
                 decision = self.l_engine.get_response(get_decision_prompt(question, description))
@@ -161,7 +161,7 @@ class MCCoT(BaseMethod):
                             guide = self.l_engine.get_response(get_guide_prompt(task, question))
                             if self.ff_print:
                                 print(f"Guide: {guide}")
-                            mllm_answer = self.v_engine.get_response(get_mllm_answer_prompt(task, guide), img)
+                            mllm_answer = self.v_engine.get_response(get_mllm_answer_prompt(task, guide), img, img_path)
                             if mllm_answer.find("Answer:") != -1:
                                 mllm_answer = mllm_answer[mllm_answer.find("Answer:") + len("Answer:"):].strip()
                             if mllm_answer == "":

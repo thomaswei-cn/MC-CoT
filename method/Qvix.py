@@ -53,10 +53,10 @@ class Qvix(BaseMethod):
 
     def _run_list(self, todo_list):
         for idx in tqdm(todo_list):
-            img, question, answer = self.dataset[idx]
+            img, question, answer, img_path = self.dataset[idx]
             preque_prompt = get_qvix_prompt_stg1(question)
             preque = self.l_engine.get_response(preque_prompt)
             answer_prompt = get_qvix_prompt_stg2(question, preque)
-            response = self.v_engine.get_response(answer_prompt, img)
+            response = self.v_engine.get_response(answer_prompt, img, img_path)
             if response is not None:
                 format_json_out_put(question, answer, response, idx, self.output_file_path)

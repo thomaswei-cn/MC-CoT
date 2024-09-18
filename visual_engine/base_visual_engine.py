@@ -7,5 +7,5 @@ class BaseVisualEngine:
         pass
 
     @abstractmethod
-    def get_response(self, user_input, image):
+    def get_response(self, user_input, image, image_path):
         pass

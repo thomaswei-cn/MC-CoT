@@ -1,3 +1,3 @@
-from .llava import LLavaEngine
+from .LLava import LLavaEngine
 
 __all__ = ['LLavaEngine']
