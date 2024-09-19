@@ -1,0 +1,4747 @@
+[
+  {
+    "image_name": "synpic28602.jpg",
+    "question": "What type of imaging does this not represent?",
+    "answer": "ultrasound"
+  },
+  {
+    "image_name": "synpic28602.jpg",
+    "question": "What is not pictured in this image?",
+    "answer": "The extremities"
+  },
+  {
+    "image_name": "synpic39460.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "left temporal lobe"
+  },
+  {
+    "image_name": "synpic42202.jpg",
+    "question": "Which organ system is abnormal in this image?",
+    "answer": "Cardiovascular"
+  },
+  {
+    "image_name": "synpic54610.jpg",
+    "question": "Where is the pathology in this image?",
+    "answer": "vasculature"
+  },
+  {
+    "image_name": "synpic54610.jpg",
+    "question": "What type of imaging is this?",
+    "answer": "MRI Diffusion Weighted"
+  },
+  {
+    "image_name": "synpic54610.jpg",
+    "question": "What organ system is pictured?",
+    "answer": "the brain"
+  },
+  {
+    "image_name": "synpic29265.jpg",
+    "question": "How is the patient oriented?",
+    "answer": "Posterior-Anterior"
+  },
+  {
+    "image_name": "synpic42202.jpg",
+    "question": "What type of image is this?",
+    "answer": "Chest X-ray"
+  },
+  {
+    "image_name": "synpic39460.jpg",
+    "question": "In what plane is this image oriented?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "Describe the lung abnormalities?",
+    "answer": "Pulmonary nodules"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "What abnormalities are seen within the lungs?",
+    "answer": "Pulmonary nodules"
+  },
+  {
+    "image_name": "synpic32933.jpg",
+    "question": "What is under the right hemidiaphragm?",
+    "answer": "Free air"
+  },
+  {
+    "image_name": "synpic32933.jpg",
+    "question": "What is the abnormality by the right hemidiaphragm?",
+    "answer": "Free air"
+  },
+  {
+    "image_name": "synpic40464.jpg",
+    "question": "How would you describe the spleen abnormality",
+    "answer": "hypodense lesion"
+  },
+  {
+    "image_name": "synpic40464.jpg",
+    "question": "What is abnormal about the spleen?",
+    "answer": "hypodense lesion"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What organ system is evaluated primarily?",
+    "answer": "GI"
+  },
+  {
+    "image_name": "synpic56799.jpg",
+    "question": "How would you describe the lesion?",
+    "answer": "Ring-enhancing lesion"
+  },
+  {
+    "image_name": "synpic56799.jpg",
+    "question": "What are key characteristics of the lesion?",
+    "answer": "Ring-enhancing lesion"
+  },
+  {
+    "image_name": "synpic55948.jpg",
+    "question": "How would you describe the abnormality?",
+    "answer": "Diffuse"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What kind of scan is this?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic18461.jpg",
+    "question": "What kind of image is this?",
+    "answer": "Chest x-ray"
+  },
+  {
+    "image_name": "synpic40314.jpg",
+    "question": "What organ is enlarged?",
+    "answer": "Pancreas"
+  },
+  {
+    "image_name": "synpic40314.jpg",
+    "question": "Which organ has the abnormality?",
+    "answer": "Pancreas"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "where is the cavitary lesion?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "where is the abnormality?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic23130.jpg",
+    "question": "What density is the abnormality?",
+    "answer": "Hypodense"
+  },
+  {
+    "image_name": "synpic33889.jpg",
+    "question": "What part of the liver is the mass located in?",
+    "answer": "Left hepatic lobe"
+  },
+  {
+    "image_name": "synpic33889.jpg",
+    "question": "Where is the mass in the liver?",
+    "answer": "Left hepatic lobe"
+  },
+  {
+    "image_name": "synpic18461.jpg",
+    "question": "What organ is primarily evaluated in this image?",
+    "answer": "Lungs"
+  },
+  {
+    "image_name": "synpic57368.jpg",
+    "question": "What hemisphere are the lesions located in?",
+    "answer": "Bilateral"
+  },
+  {
+    "image_name": "synpic57368.jpg",
+    "question": "Where are the abnormalities?",
+    "answer": "Bilateral"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What does nodular liver suggest?",
+    "answer": "Cirrhosis"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What does the shape of the liver suggest?",
+    "answer": "Cirrhosis"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What is the brightness in the abdominal aorta?",
+    "answer": "Atherosclerotic calcification"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What causes hyper intensity in aorta?",
+    "answer": "Atherosclerotic calcification"
+  },
+  {
+    "image_name": "synpic51709.jpg",
+    "question": "Where in the brain is the lesion?",
+    "answer": "right parietal lobe"
+  },
+  {
+    "image_name": "synpic51709.jpg",
+    "question": "Where is the lesion?",
+    "answer": "right parietal lobe"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "Which organ system is imaged?",
+    "answer": "Chest"
+  },
+  {
+    "image_name": "synpic40464.jpg",
+    "question": "What does the hypodensity suggest?",
+    "answer": "metastasis"
+  },
+  {
+    "image_name": "synpic40464.jpg",
+    "question": "What caused the lesion?",
+    "answer": "metastasis"
+  },
+  {
+    "image_name": "synpic33889.jpg",
+    "question": "In what plane is this image taken?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic49914.jpg",
+    "question": "Which plane is this image taken?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic21044.jpg",
+    "question": "What is abnormal about the hila?",
+    "answer": "Enlarged"
+  },
+  {
+    "image_name": "synpic49914.jpg",
+    "question": "What is happening in the right lung?",
+    "answer": "Volume loss"
+  },
+  {
+    "image_name": "synpic49914.jpg",
+    "question": "What is finding in the right lung?",
+    "answer": "Volume loss"
+  },
+  {
+    "image_name": "synpic40464.jpg",
+    "question": "How many lesions are in the spleen?",
+    "answer": "one"
+  },
+  {
+    "image_name": "synpic45115.jpg",
+    "question": "What is most alarming about the appendix?",
+    "answer": "extraluminal air and small fluid collection"
+  },
+  {
+    "image_name": "synpic40314.jpg",
+    "question": "What is abnormal about the pancreas?",
+    "answer": "Enlarged"
+  },
+  {
+    "image_name": "synpic40314.jpg",
+    "question": "Why is the pancreas abnormal?",
+    "answer": "Enlarged"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "What abnormalities are in the lung apices?",
+    "answer": "Nodular opacities"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "What is seen in the lung apices?",
+    "answer": "Nodular opacities"
+  },
+  {
+    "image_name": "synpic27013.jpg",
+    "question": "Where is the mass?",
+    "answer": "extra-axial and at the right choroidal fissure"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "What can cause asymmetrical breasts?",
+    "answer": "Prior surgery"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "Why are the breasts asymmetrical?",
+    "answer": "Prior surgery"
+  },
+  {
+    "image_name": "synpic57368.jpg",
+    "question": "How would you describe the abnormalities",
+    "answer": "Ring-enhancing lesions"
+  },
+  {
+    "image_name": "synpic56799.jpg",
+    "question": "What lobe is the lesion located in?",
+    "answer": "right temporal lobe"
+  },
+  {
+    "image_name": "synpic56799.jpg",
+    "question": "Where is the abnormality located?",
+    "answer": "right temporal lobe"
+  },
+  {
+    "image_name": "synpic21734.jpg",
+    "question": "What organ is the mass in?",
+    "answer": "Pancreas"
+  },
+  {
+    "image_name": "synpic21734.jpg",
+    "question": "Where is the mass?",
+    "answer": "Pancreas"
+  },
+  {
+    "image_name": "synpic45162.jpg",
+    "question": "What abnormalities are in the right upper quadrant?",
+    "answer": "Gallstones"
+  },
+  {
+    "image_name": "synpic45162.jpg",
+    "question": "What is in the right upper quadrant?",
+    "answer": "Gallstones"
+  },
+  {
+    "image_name": "synpic29219.jpg",
+    "question": "Which kidney is abnormal?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic29219.jpg",
+    "question": "Which kidney has abnormalities?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic51709.jpg",
+    "question": "What is the image suggestive of?",
+    "answer": "abscess"
+  },
+  {
+    "image_name": "synpic51709.jpg",
+    "question": "What is the lesion most likely to be?",
+    "answer": "abscess"
+  },
+  {
+    "image_name": "synpic29219.jpg",
+    "question": "Describe the lesions in the right kidney?",
+    "answer": "Cystic lesions"
+  },
+  {
+    "image_name": "synpic29219.jpg",
+    "question": "What is seen in the right kidney?",
+    "answer": "Cystic lesions"
+  },
+  {
+    "image_name": "synpic21044.jpg",
+    "question": "How would you describe the aortopulmonary window?",
+    "answer": "middle mogul"
+  },
+  {
+    "image_name": "synpic21044.jpg",
+    "question": "What characteristic finding do you see in the aortopulmonary window?",
+    "answer": "middle mogul"
+  },
+  {
+    "image_name": "synpic21044.jpg",
+    "question": "Which sign do you see in the aortopulmonary window in this image?",
+    "answer": "middle mogul"
+  },
+  {
+    "image_name": "synpic49914.jpg",
+    "question": "Where is the diffuse pleural thickening?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic49914.jpg",
+    "question": "Which lung is abnormal?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic45115.jpg",
+    "question": "Describe the appendix",
+    "answer": "enlarged, fluid-filled"
+  },
+  {
+    "image_name": "synpic28695.jpg",
+    "question": "Where is the mass?",
+    "answer": "Pancreatic body"
+  },
+  {
+    "image_name": "synpic23130.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "Right lobe of the liver"
+  },
+  {
+    "image_name": "synpic23130.jpg",
+    "question": "Where is the hypodensity located?",
+    "answer": "Right lobe of the liver"
+  },
+  {
+    "image_name": "synpic46720.jpg",
+    "question": "Which hemisphere is the ischemia located?",
+    "answer": "Right hemisphere"
+  },
+  {
+    "image_name": "synpic46720.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "Right PCA"
+  },
+  {
+    "image_name": "synpic55948.jpg",
+    "question": "Where is the abnormality in this image?",
+    "answer": "Basal ganglia"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "Where is the catheter tip located?",
+    "answer": "Right superior cavoatrial junction"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "Where does the catheter tip extend into?",
+    "answer": "Right superior cavoatrial junction"
+  },
+  {
+    "image_name": "synpic31400.jpg",
+    "question": "What kind of image is this?",
+    "answer": "x-ray"
+  },
+  {
+    "image_name": "synpic46720.jpg",
+    "question": "What does the abnormality suggest?",
+    "answer": "Ischemia"
+  },
+  {
+    "image_name": "synpic46720.jpg",
+    "question": "What causes the hyperintensity?",
+    "answer": "Ischemia"
+  },
+  {
+    "image_name": "synpic59356.jpg",
+    "question": "Where is the mass?",
+    "answer": "Suprasellar cistern"
+  },
+  {
+    "image_name": "synpic59356.jpg",
+    "question": "Where is the mass located?",
+    "answer": "Suprasellar cistern"
+  },
+  {
+    "image_name": "synpic29219.jpg",
+    "question": "Which plane is the image taken?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic57520.jpg",
+    "question": "Where is this plane relative to the eyes?",
+    "answer": "Above"
+  },
+  {
+    "image_name": "synpic24390.jpg",
+    "question": "How was this x-ray taken?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic23803.jpg",
+    "question": "Which ribs are located near the abnormality seen in this image?",
+    "answer": "4th and 5th"
+  },
+  {
+    "image_name": "synpic23803.jpg",
+    "question": "What level is the abnormality located at?",
+    "answer": "T5"
+  },
+  {
+    "image_name": "synpic47783.jpg",
+    "question": "How wide is the cardiac shadow?",
+    "answer": "Less than half the thorax"
+  },
+  {
+    "image_name": "synpic45557.jpg",
+    "question": "What lesions are present in the lungs?",
+    "answer": "None"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "How big is the liver lesion?",
+    "answer": "5 cm"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "What is the size of the mass lesion?",
+    "answer": "5 cm"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "What is the modality by which the image was taken?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "Where in the image are the calcifications located?",
+    "answer": "High on the image"
+  },
+  {
+    "image_name": "synpic31962.jpg",
+    "question": "Where is the aortic arch?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic31962.jpg",
+    "question": "Which side of the image is the aortic arch visualized?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "Where is the lung lesion located?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "Which lobe of the lung is the lesion located in?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic24220.jpg",
+    "question": "Where in this image are the bowel loops?",
+    "answer": "Left side"
+  },
+  {
+    "image_name": "synpic41050.jpg",
+    "question": "What indicates that appendicitis is present?",
+    "answer": "Periappendiceal fluid and fat stranding"
+  },
+  {
+    "image_name": "synpic27985.jpg",
+    "question": "How many instances of intussusception are in the image?",
+    "answer": "One"
+  },
+  {
+    "image_name": "synpic27985.jpg",
+    "question": "Besides the intestines, what other organs are present?",
+    "answer": "kidneys"
+  },
+  {
+    "image_name": "synpic27985.jpg",
+    "question": "Where is the intussesception located?",
+    "answer": "Small bowel"
+  },
+  {
+    "image_name": "synpic39532.jpg",
+    "question": "How many lesions are present in the image?",
+    "answer": "One"
+  },
+  {
+    "image_name": "synpic34836.jpg",
+    "question": "Where on the image is the lesion?",
+    "answer": "Left temporal lobe"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "Which side is more clearly visualized?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "Which lung is clearer?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "What are the two major organs present in this image?",
+    "answer": "Heart \tlungs"
+  },
+  {
+    "image_name": "synpic24390.jpg",
+    "question": "How wide is the heart compared to the thorax?",
+    "answer": "It is less than half the width of the thorax"
+  },
+  {
+    "image_name": "synpic21995.jpg",
+    "question": "Where is the largest cystic lesion in the image?",
+    "answer": "Left kidney"
+  },
+  {
+    "image_name": "synpic21995.jpg",
+    "question": "What is denser, the cystic lesions or the kidney parenchyma?",
+    "answer": "cystic lesions"
+  },
+  {
+    "image_name": "synpic24220.jpg",
+    "question": "What is the dense mass visualized in the liver?",
+    "answer": "Blood vessel"
+  },
+  {
+    "image_name": "synpic19782.jpg",
+    "question": "Where is free air trapped subcutaneously in this image?",
+    "answer": "Above the clavicles bilaterally"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "What is the organ system visualized?",
+    "answer": "Gastrointestinal"
+  },
+  {
+    "image_name": "synpic39532.jpg",
+    "question": "Where is the lesion?",
+    "answer": "Right lower lobe"
+  },
+  {
+    "image_name": "synpic39532.jpg",
+    "question": "Which lung lobe is the lesion present in?",
+    "answer": "Right lower lobe"
+  },
+  {
+    "image_name": "synpic47783.jpg",
+    "question": "Where is the aneurysm located?",
+    "answer": "In the thorasic aorta"
+  },
+  {
+    "image_name": "synpic47783.jpg",
+    "question": "What is the most important abnormality found in this image?",
+    "answer": "Width of aorta"
+  },
+  {
+    "image_name": "synpic41050.jpg",
+    "question": "Where is the ascending colon?",
+    "answer": "Posterior to the appendix"
+  },
+  {
+    "image_name": "synpic41050.jpg",
+    "question": "What structure lies directly posterior to the appendix in this image?",
+    "answer": "Psoas muscle"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "At which rib is the lesion located?",
+    "answer": "7th rib"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "What rib is the lesion located inferior to?",
+    "answer": "7th rib"
+  },
+  {
+    "image_name": "synpic23803.jpg",
+    "question": "On which side is the cardiac border more obscured?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic23803.jpg",
+    "question": "Where is the cardiac border more obscured?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic33689.jpg",
+    "question": "What organ system is primarily present in this image?",
+    "answer": "Gastrointestinal"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "Which side of the cardiac border is more prominent?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic19477.jpg",
+    "question": "Which cardiac border is more prominently visualized?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic13385.jpg",
+    "question": "Which lung has more extensive infiltration?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic13385.jpg",
+    "question": "Where are the most infiltrates located?",
+    "answer": "Left lung"
+  },
+  {
+    "image_name": "synpic33689.jpg",
+    "question": "How would you describe the duodenum?",
+    "answer": "Edematous"
+  },
+  {
+    "image_name": "synpic24390.jpg",
+    "question": "Where is the largest air collection in this image?",
+    "answer": "Right lung base"
+  },
+  {
+    "image_name": "synpic31955.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Anterior mediastinum"
+  },
+  {
+    "image_name": "synpic31955.jpg",
+    "question": "What is the location of the primary lesion?",
+    "answer": "Right lung hilum"
+  },
+  {
+    "image_name": "synpic57520.jpg",
+    "question": "Which side is the lateral ventricle visible on?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic57520.jpg",
+    "question": "Where is the lateral ventricle?",
+    "answer": "left hemisphere"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Right lobe"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "Which liver lobe is the lesion in?",
+    "answer": "Right lobe"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "Where is the subcutaneous air collection?",
+    "answer": "On the right shoulder."
+  },
+  {
+    "image_name": "synpic23053.jpg",
+    "question": "What is the opacity near the left lung apex?",
+    "answer": "Pacemaker"
+  },
+  {
+    "image_name": "synpic13385.jpg",
+    "question": "What is in the left apex?",
+    "answer": "A bullous lesion"
+  },
+  {
+    "image_name": "synpic31955.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Anterior mediastinum"
+  },
+  {
+    "image_name": "synpic31955.jpg",
+    "question": "Which side of the heart border is obscured?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic34449.jpg",
+    "question": "How was this image taken?",
+    "answer": "X-ray"
+  },
+  {
+    "image_name": "synpic24220.jpg",
+    "question": "Where are the kidney?",
+    "answer": "Not seen here"
+  },
+  {
+    "image_name": "synpic23053.jpg",
+    "question": "Where is the lesion?",
+    "answer": "In the right hilum"
+  },
+  {
+    "image_name": "synpic23053.jpg",
+    "question": "Which lobe is the lesion located in?",
+    "answer": "Upper right lobe"
+  },
+  {
+    "image_name": "synpic35914.jpg",
+    "question": "Where is the colon most prominent from this view?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic45557.jpg",
+    "question": "Where on the image is most obscured?",
+    "answer": "Right lung base"
+  },
+  {
+    "image_name": "synpic33844.jpg",
+    "question": "What are the opacities to the left?",
+    "answer": "Contrast in the intestines"
+  },
+  {
+    "image_name": "synpic21902.jpg",
+    "question": "What are those densities in the wall of the aorta?",
+    "answer": "Calcifications"
+  },
+  {
+    "image_name": "synpic58261.jpg",
+    "question": "What is the radiological description of the color of the edema?",
+    "answer": "Hypodense"
+  },
+  {
+    "image_name": "synpic53978.jpg",
+    "question": "What structures are visible in this image?",
+    "answer": "Skull \tcartilage and medulla"
+  },
+  {
+    "image_name": "synpic19118.jpg",
+    "question": "What is this lucency amid densities in the right lung?",
+    "answer": "The right bronchus"
+  },
+  {
+    "image_name": "synpic52951.jpg",
+    "question": "In which lobe is the nodule located?",
+    "answer": "Left upper lobe"
+  },
+  {
+    "image_name": "synpic52951.jpg",
+    "question": "What is the organ principally shown in this image?",
+    "answer": "Lung"
+  },
+  {
+    "image_name": "synpic60096.jpg",
+    "question": "What are those lines in the posterior brain?",
+    "answer": "Imaging artifacts"
+  },
+  {
+    "image_name": "synpic24319.jpg",
+    "question": "What are these densities inside the intestines?",
+    "answer": "Contrast"
+  },
+  {
+    "image_name": "synpic31916.jpg",
+    "question": "What is the name of this image's plane?",
+    "answer": "Posteroanterior"
+  },
+  {
+    "image_name": "synpic52951.jpg",
+    "question": "What type of image is this?",
+    "answer": "Plain film x-ray"
+  },
+  {
+    "image_name": "synpic39240.jpg",
+    "question": "In which lobe is the enhancement?",
+    "answer": "Right frontal lobe"
+  },
+  {
+    "image_name": "synpic50949.jpg",
+    "question": "What are these opacities anterior to the right kidney?",
+    "answer": "The small intestines"
+  },
+  {
+    "image_name": "synpic60096.jpg",
+    "question": "What is the plane of this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic31916.jpg",
+    "question": "What is happening with the path of the trachea?",
+    "answer": "It is shifted to the right"
+  },
+  {
+    "image_name": "synpic47356.jpg",
+    "question": "Where are the enlarged feeding arteries located?",
+    "answer": "Occipital lobe"
+  },
+  {
+    "image_name": "synpic21410.jpg",
+    "question": "What is the medium density close to the anterior abdominal wall?",
+    "answer": "The diaphragm"
+  },
+  {
+    "image_name": "synpic24319.jpg",
+    "question": "Is the renal mass distending the abdominal wall?",
+    "answer": "A bit"
+  },
+  {
+    "image_name": "synpic58261.jpg",
+    "question": "What is the hypodensity in the posterior left?",
+    "answer": "The posterior horn of the left lateral ventricle"
+  },
+  {
+    "image_name": "synpic21410.jpg",
+    "question": "What is this mass to the left of the patient?",
+    "answer": "The liver"
+  },
+  {
+    "image_name": "synpic49381.jpg",
+    "question": "What are these hyperintensities to the right?",
+    "answer": "Infarcted areas"
+  },
+  {
+    "image_name": "synpic39240.jpg",
+    "question": "What is the plane of this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic21902.jpg",
+    "question": "What are these hypodensities in the liver?",
+    "answer": "Fat accumulations"
+  },
+  {
+    "image_name": "synpic54795.jpg",
+    "question": "In which lobe is the cyst?",
+    "answer": "Right frontal lobe"
+  },
+  {
+    "image_name": "synpic50949.jpg",
+    "question": "What type of image is this?",
+    "answer": "CT with contrast"
+  },
+  {
+    "image_name": "synpic31916.jpg",
+    "question": "How do we call these wide undulations along the vertebral column?",
+    "answer": "Scoliosis"
+  },
+  {
+    "image_name": "synpic24538.jpg",
+    "question": "To which side is the trachea deviated?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic42307.jpg",
+    "question": "What bright white structures form an X?",
+    "answer": "lateral ventricles"
+  },
+  {
+    "image_name": "synpic42307.jpg",
+    "question": "What are the bright white structures, almost forming an X\"?\"",
+    "answer": "lateral ventricles"
+  },
+  {
+    "image_name": "synpic28378.jpg",
+    "question": "What is the likely sex of this patient?",
+    "answer": "Female"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "Approximately how much time was required to obtain this image?",
+    "answer": "10-20 minutes"
+  },
+  {
+    "image_name": "synpic48749.jpg",
+    "question": "The dark areas of the image show what type of brain matter?",
+    "answer": "White matter"
+  },
+  {
+    "image_name": "synpic46943.jpg",
+    "question": "Which ventricles are visible?",
+    "answer": "Lateral ventricles"
+  },
+  {
+    "image_name": "synpic42307.jpg",
+    "question": "Would you suspect abcess or cancer for this finding?",
+    "answer": "Abscess"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "What are the dark areas at the top of the picture?",
+    "answer": "Large bowel"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "What is the dark space in the body cavity near the top of the image?",
+    "answer": "Large bowel"
+  },
+  {
+    "image_name": "synpic33226.jpg",
+    "question": "What can be typically visualized in this plane?",
+    "answer": "lungs \tbony thoracic cavit y\tmediastinum and great vessels"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "In what space/cavity is the abnormal organ located?",
+    "answer": "retroperitoneum; retroperitoneal space"
+  },
+  {
+    "image_name": "synpic46943.jpg",
+    "question": "How long does this imaging modality take to complete? (hours?\tminutes?)",
+    "answer": "~15 minutes\tpotentially faster with newer imaging systems"
+  },
+  {
+    "image_name": "synpic47196.jpg",
+    "question": "What hypoattenuated tissue is between the abdominal wall and skin?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic47196.jpg",
+    "question": "What is the dark structure underneath the skin?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "what is the secondary pathology?",
+    "answer": "moderate edema"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "What is the secondary abnormality in this image?",
+    "answer": "moderate edema"
+  },
+  {
+    "image_name": "synpic22037.jpg",
+    "question": "Where is the tip of the line?",
+    "answer": "mid left subclavian vein"
+  },
+  {
+    "image_name": "synpic22037.jpg",
+    "question": "Where is the tip of the Port-a-Cath catheter located?",
+    "answer": "mid left subclavian vein"
+  },
+  {
+    "image_name": "synpic24424.jpg",
+    "question": "What is the location of the mass",
+    "answer": "anterior to the transverse colon"
+  },
+  {
+    "image_name": "synpic24424.jpg",
+    "question": "where is the mass located?",
+    "answer": "anterior to the transverse colon"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "What is the primary abnormality in this image?",
+    "answer": "ring enhancing lesion in the left occipital lobe"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "what is the primary pathology",
+    "answer": "ring enhancing lesion in the left occipital lobe"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "How was this image taken",
+    "answer": "T2-MRI"
+  },
+  {
+    "image_name": "synpic44995.jpg",
+    "question": "The pathology is located in which lobes of the brain?",
+    "answer": "parietal and occipital lobes"
+  },
+  {
+    "image_name": "synpic44995.jpg",
+    "question": "which lobes demonstrate pathology",
+    "answer": "parietal and occipital lobes"
+  },
+  {
+    "image_name": "synpic39301.jpg",
+    "question": "What is the likely pathology?",
+    "answer": "PRES"
+  },
+  {
+    "image_name": "synpic39301.jpg",
+    "question": "What is the most likely cause of these abnormalities?",
+    "answer": "PRES"
+  },
+  {
+    "image_name": "synpic18651.jpg",
+    "question": "Describe the pathology",
+    "answer": "cardiomegaly with pulmonary edema"
+  },
+  {
+    "image_name": "synpic18651.jpg",
+    "question": "what is the pathology?",
+    "answer": "cardiomegaly with pulmonary edema"
+  },
+  {
+    "image_name": "synpic39301.jpg",
+    "question": "What organ system is displayed?",
+    "answer": "CNS"
+  },
+  {
+    "image_name": "synpic43433.jpg",
+    "question": "what is the location of the mass?",
+    "answer": "cecum"
+  },
+  {
+    "image_name": "synpic43433.jpg",
+    "question": "Where is the mass?",
+    "answer": "cecum"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What organ system is this?",
+    "answer": "CNS"
+  },
+  {
+    "image_name": "synpic55464.jpg",
+    "question": "what it causing the widening?",
+    "answer": "mass"
+  },
+  {
+    "image_name": "synpic55464.jpg",
+    "question": "What is the widened mediastinum caused by?",
+    "answer": "mass"
+  },
+  {
+    "image_name": "synpic32962.jpg",
+    "question": "What organ system is the pathology?",
+    "answer": "pulmonary/lymphatic"
+  },
+  {
+    "image_name": "synpic32962.jpg",
+    "question": "What is the modality?",
+    "answer": "CXR"
+  },
+  {
+    "image_name": "synpic51926.jpg",
+    "question": "in what system is the pathology?",
+    "answer": "GI"
+  },
+  {
+    "image_name": "synpic51926.jpg",
+    "question": "What system is this pathology in?",
+    "answer": "GI"
+  },
+  {
+    "image_name": "synpic23989.jpg",
+    "question": "What plane is demonstrated?",
+    "answer": "Coronal"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "How would you characterize the lesion?",
+    "answer": "ring enhancing lesion"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "What is the characterization of the lesion",
+    "answer": "ring enhancing lesion"
+  },
+  {
+    "image_name": "synpic51872.jpg",
+    "question": "what is the location of the cavitary lesion",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic51872.jpg",
+    "question": "Where is the cavitary lesion located?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic23989.jpg",
+    "question": "What is the pathology?",
+    "answer": "Left Apical Pneumothorax"
+  },
+  {
+    "image_name": "synpic23989.jpg",
+    "question": "What pathology is shown?",
+    "answer": "Left Apical Pneumothorax"
+  },
+  {
+    "image_name": "synpic55464.jpg",
+    "question": "What plane is this film",
+    "answer": "coronal"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What is the lesion's disease origin?",
+    "answer": "vascular"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What disease origin is the lesion(eg, vascular vs. neoplastic)?",
+    "answer": "vascular"
+  },
+  {
+    "image_name": "synpic24424.jpg",
+    "question": "what is the composition of the mass?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic24424.jpg",
+    "question": "What is this mass primarily made of?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic46976.jpg",
+    "question": "What is the pathology in this image?",
+    "answer": "cardiomegaly"
+  },
+  {
+    "image_name": "synpic46976.jpg",
+    "question": "what pathology is demonstrated?",
+    "answer": "cardiomegaly"
+  },
+  {
+    "image_name": "synpic31259.jpg",
+    "question": "This radiograph contains what foreign body?",
+    "answer": "sternotomy wires and surgical clips"
+  },
+  {
+    "image_name": "synpic31259.jpg",
+    "question": "what is the foreign body",
+    "answer": "sternotomy wires and surgical clips"
+  },
+  {
+    "image_name": "synpic21700.jpg",
+    "question": "what is the location of the mass?",
+    "answer": "head of the pancreas"
+  },
+  {
+    "image_name": "synpic21700.jpg",
+    "question": "Where is the mass located?",
+    "answer": "head of the pancreas"
+  },
+  {
+    "image_name": "synpic22037.jpg",
+    "question": "what is the plane?",
+    "answer": "coronal"
+  },
+  {
+    "image_name": "synpic39301.jpg",
+    "question": "What modality is shown?",
+    "answer": "FLAIR MRI"
+  },
+  {
+    "image_name": "synpic21028.jpg",
+    "question": "The mass is found in which part of the pancreas?",
+    "answer": "The pancreatic head"
+  },
+  {
+    "image_name": "synpic38858.jpg",
+    "question": "What type of MRI sequence is displayed in this image?",
+    "answer": "T2 weighted MRI"
+  },
+  {
+    "image_name": "synpic22310.jpg",
+    "question": "Where can omental caking be seen in this image?",
+    "answer": "Left lateral aspect of anterior peritoneum"
+  },
+  {
+    "image_name": "synpic48122.jpg",
+    "question": "From what structure is the large hypodense mass emanating from?",
+    "answer": "The base of the cecum"
+  },
+  {
+    "image_name": "synpic16170.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Left mid lung"
+  },
+  {
+    "image_name": "synpic55317.jpg",
+    "question": "In what ventricle is the enhancing intraventricular mass seen?",
+    "answer": "4th ventricle"
+  },
+  {
+    "image_name": "synpic35155.jpg",
+    "question": "What signs of appendicitis are seen in this image?",
+    "answer": "Fat stranding around the appendix, thickened appendiceal walls, dilated appendix, and an appendicolith is seen as well"
+  },
+  {
+    "image_name": "synpic51282.jpg",
+    "question": "How would you describe this lesion?",
+    "answer": "Ring enhancing lesion in the right frontal lobe"
+  },
+  {
+    "image_name": "synpic55286.jpg",
+    "question": "What lobe of the brain is the lesion located in?",
+    "answer": "Right frontal lobe"
+  },
+  {
+    "image_name": "synpic34854.jpg",
+    "question": "What region of the brain shows hyperintensity?",
+    "answer": "Right lenticular nucleus"
+  },
+  {
+    "image_name": "synpic33378.jpg",
+    "question": "Which side is the pneumothorax on?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic48122.jpg",
+    "question": "What is represented by the black parts of the image within the large intestine?",
+    "answer": "Air"
+  },
+  {
+    "image_name": "synpic100132.jpg",
+    "question": "Which rib is fractured?",
+    "answer": "3rd rib"
+  },
+  {
+    "image_name": "synpic55317.jpg",
+    "question": "In what plane is this MRI taken?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic21042.jpg",
+    "question": "What type of imaging modality is seen in this image?",
+    "answer": "X-ray plain film"
+  },
+  {
+    "image_name": "synpic53635.jpg",
+    "question": "What organ is seen in the Left posterior portion of this image, to the left of the spinal column?",
+    "answer": "The left kidney"
+  },
+  {
+    "image_name": "synpic20208.jpg",
+    "question": "What solid organ is seen on the right side of this image?",
+    "answer": "The liver"
+  },
+  {
+    "image_name": "synpic21042.jpg",
+    "question": "What is one organ system seen in this image?",
+    "answer": "Respiratory System"
+  },
+  {
+    "image_name": "synpic35155.jpg",
+    "question": "What part of the body is being imaged?",
+    "answer": "The abdomen"
+  },
+  {
+    "image_name": "synpic27047.jpg",
+    "question": "What type of imaging modality is this?",
+    "answer": "Xray - plain film"
+  },
+  {
+    "image_name": "synpic22310.jpg",
+    "question": "What abnormality can be seen in the greater omentum?",
+    "answer": "Omental caking"
+  },
+  {
+    "image_name": "synpic34854.jpg",
+    "question": "What type of MRI sequence is this?",
+    "answer": "Diffusion Weighted Imaging (DWI)"
+  },
+  {
+    "image_name": "synpic20208.jpg",
+    "question": "In what plane was this image taken?",
+    "answer": "Axial plane"
+  },
+  {
+    "image_name": "synpic51282.jpg",
+    "question": "What lobe of the brain is the lesion found in?",
+    "answer": "The right frontal lobe"
+  },
+  {
+    "image_name": "synpic21028.jpg",
+    "question": "There is a mass found in which organ?",
+    "answer": "The pancreas"
+  },
+  {
+    "image_name": "synpic100132.jpg",
+    "question": "What is the difference between the left and right costophrenic angles?",
+    "answer": "The left costophrenic angle is blunted"
+  },
+  {
+    "image_name": "synpic34854.jpg",
+    "question": "On which side of the brain is the infarction?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic22684.jpg",
+    "question": "There is a large enhancing mass growing from what organ in this CT scan?",
+    "answer": "The left kidney"
+  },
+  {
+    "image_name": "synpic38858.jpg",
+    "question": "Which lobe of the brain demonstrates a hyper-intense signal in this T2 weighted MRI image?",
+    "answer": "The left occipital lobe"
+  },
+  {
+    "image_name": "synpic53635.jpg",
+    "question": "What imaging modality is seen here?",
+    "answer": "CT with GI and IV contrast"
+  },
+  {
+    "image_name": "synpic22684.jpg",
+    "question": "What vessel is seen just anterior to the spine enhancing with contrast?",
+    "answer": "The aorta"
+  },
+  {
+    "image_name": "synpic20208.jpg",
+    "question": "What two large vessels are seen directly anterior to the spinal column?",
+    "answer": "The aorta and the inferior vena cava"
+  },
+  {
+    "image_name": "synpic21037.jpg",
+    "question": "Which side of the image is the thoracic mass located on?",
+    "answer": "Left side"
+  },
+  {
+    "image_name": "synpic16520.jpg",
+    "question": "In which two ventricles can calcifications be seen on this CT scan?",
+    "answer": "The 3rd ventricle and the lateral ventricles"
+  },
+  {
+    "image_name": "synpic53635.jpg",
+    "question": "What part of the body is being imaged here?",
+    "answer": "abdomen"
+  },
+  {
+    "image_name": "synpic55286.jpg",
+    "question": "What abnormality is seen on the left side of the frontal lobe?",
+    "answer": "Regression of left frontal mass"
+  },
+  {
+    "image_name": "synpic45914.jpg",
+    "question": "Where is the bleed?",
+    "answer": "Subarachnoid"
+  },
+  {
+    "image_name": "synpic45914.jpg",
+    "question": "What kind of brain bleed is this?",
+    "answer": "Subarachnoid"
+  },
+  {
+    "image_name": "synpic54004.jpg",
+    "question": "Where is the enhancement in left rectus muscles?",
+    "answer": "Medial rectus"
+  },
+  {
+    "image_name": "synpic54004.jpg",
+    "question": "Which rectus muscles are enhanced on the left?",
+    "answer": "Medial rectus"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "How do you tell which side is R vs L?",
+    "answer": "Imagine the patient is laying down and you are looking from the feet"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "How can you tell contrast has been give orally?",
+    "answer": "Bowel contents light up on image"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "Diaphragm is elevated on which side?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "Which side of the diaphragm is elevated?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "Where does the L renal vein connect to",
+    "answer": "IVC"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "Where does the L renal vein drain into?",
+    "answer": "IVC"
+  },
+  {
+    "image_name": "synpic17848.jpg",
+    "question": "What type of image is this?",
+    "answer": "Chest xray"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "What side are the infarcts located?",
+    "answer": "Bilateral"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "Where are the infarcts seen?",
+    "answer": "Bilateral"
+  },
+  {
+    "image_name": "synpic45634.jpg",
+    "question": "How would you describe the lesions?",
+    "answer": "Loculated"
+  },
+  {
+    "image_name": "synpic45634.jpg",
+    "question": "What is one adjective to describe the lesion(s)?",
+    "answer": "Loculated"
+  },
+  {
+    "image_name": "synpic53033.jpg",
+    "question": "What side of the brain is a lesion on?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic22097.jpg",
+    "question": "What kind of image is this?",
+    "answer": "chest x Ray"
+  },
+  {
+    "image_name": "synpic22097.jpg",
+    "question": "What modality is this?",
+    "answer": "chest x Ray"
+  },
+  {
+    "image_name": "synpic54004.jpg",
+    "question": "Where is the enhancement in right rectus muscles?",
+    "answer": "Medial and lateral rectus"
+  },
+  {
+    "image_name": "synpic54004.jpg",
+    "question": "Which Rectus muscles are enhanced on the right?",
+    "answer": "Medial and lateral rectus"
+  },
+  {
+    "image_name": "synpic35191.jpg",
+    "question": "What plane is this?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic53097.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "Pineal gland"
+  },
+  {
+    "image_name": "synpic53097.jpg",
+    "question": "Where is the mass located?",
+    "answer": "Pineal gland"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "The air fluid level is in which location?",
+    "answer": "Cardiac region"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "Where is there an air fluid level?",
+    "answer": "Cardiac region"
+  },
+  {
+    "image_name": "synpic40520.jpg",
+    "question": "Where is there evidence of a pleural effusion?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic40520.jpg",
+    "question": "Where is the pleural effusion located?",
+    "answer": "Right side"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "What do the hyperdensities represent?",
+    "answer": "Infarct"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "What are the hyperdensities indicative of?",
+    "answer": "Infarct"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "What could cause this finding?",
+    "answer": "Congenital developmental disorder? History of surgery and past manipulation?"
+  },
+  {
+    "image_name": "synpic57813.jpg",
+    "question": "What type of image modality is this?",
+    "answer": "MR FLAIR"
+  },
+  {
+    "image_name": "synpic57813.jpg",
+    "question": "Which image modality is this?",
+    "answer": "MR FLAIR"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "How is the image oriented?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "What plane is this X-ray in?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "What side of the abdomen is the aorta on?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "Where is the aorta located relative to the midline?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic22097.jpg",
+    "question": "Which side is abnormal?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic22097.jpg",
+    "question": "Which lung has a defect?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic45634.jpg",
+    "question": "What area is abnormal?",
+    "answer": "Right cerebellum"
+  },
+  {
+    "image_name": "synpic45634.jpg",
+    "question": "Where is/are the abnormality located?",
+    "answer": "Right cerebellum"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "Where are the acute infarcts?",
+    "answer": "R frontal lobe"
+  },
+  {
+    "image_name": "synpic54802.jpg",
+    "question": "Where do you see acute infarcts?",
+    "answer": "R frontal lobe"
+  },
+  {
+    "image_name": "synpic57813.jpg",
+    "question": "In which area of the brain are the infarcts found?",
+    "answer": "Right Cerebellum"
+  },
+  {
+    "image_name": "synpic57813.jpg",
+    "question": "Where are the infarcts located?",
+    "answer": "Right Cerebellum"
+  },
+  {
+    "image_name": "synpic17848.jpg",
+    "question": "What organ systems can be evaluated with this image?",
+    "answer": "Respiratory \tcardia c\tmusculoskeletal"
+  },
+  {
+    "image_name": "synpic52732.jpg",
+    "question": "What side is the lesion located on?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic52732.jpg",
+    "question": "Where is the lesion?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "how can you tell this is a T2 weighted image?",
+    "answer": "CSF is white"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "What is the best MRI weighting for ring enhancing lesions?",
+    "answer": "T2"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "What is seen in the occipital lobe?",
+    "answer": "Ring enhancing lesion"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "What is abnormal about the occipital lobe?",
+    "answer": "Ring enhancing lesion"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "How would you measure the length of the kidneys?",
+    "answer": "coronal plane?"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "What plane is this image in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic41119.jpg",
+    "question": "Which plane is the image shown in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic35191.jpg",
+    "question": "Where are the lesions located?",
+    "answer": "bilateral cerebellum"
+  },
+  {
+    "image_name": "synpic35191.jpg",
+    "question": "Where are the lesions located?",
+    "answer": "bilateral cerebellum"
+  },
+  {
+    "image_name": "synpic49862.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Left Parietal lobe"
+  },
+  {
+    "image_name": "synpic49862.jpg",
+    "question": "Which lobe is the lesion in?",
+    "answer": "Left Parietal lobe"
+  },
+  {
+    "image_name": "synpic16407.jpg",
+    "question": "What type of image is this?",
+    "answer": "Chest X-ray"
+  },
+  {
+    "image_name": "synpic16407.jpg",
+    "question": "What image modality is this?",
+    "answer": "Chest X-ray"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "What are the hyperdense findings in the mediastinum?",
+    "answer": "Sternal wires"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "What are seen as hyperdense in the mediastinum of this image?",
+    "answer": "Sternal wires"
+  },
+  {
+    "image_name": "synpic18896.jpg",
+    "question": "What is the abnormality seen above the heart on the patient's right side?",
+    "answer": "right sided aortic arch"
+  },
+  {
+    "image_name": "synpic18896.jpg",
+    "question": "what is the bump seen above the heart on the patient's right side?",
+    "answer": "right sided aortic arch"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "Brain structure shown in this image?",
+    "answer": "cerebellum"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "What part of the brain is seen in this image?",
+    "answer": "cerebellum"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "What type of imaging modality is used to acquire the above image?",
+    "answer": "MRI - T2 weighted"
+  },
+  {
+    "image_name": "synpic37605.jpg",
+    "question": "What lobe of the brain is the lesion located in?",
+    "answer": "Right frontal lobe"
+  },
+  {
+    "image_name": "synpic37605.jpg",
+    "question": "Where is the brain lesion located?",
+    "answer": "Right frontal lobe"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "The image is taken in what plane?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "What plane is the above image acquired in?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic31394.jpg",
+    "question": "In what plane is the above taken?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic52828.jpg",
+    "question": "Is this image taken with or without contrast?",
+    "answer": "with contrast"
+  },
+  {
+    "image_name": "synpic52828.jpg",
+    "question": "Was contrast used to take this image?",
+    "answer": "with contrast"
+  },
+  {
+    "image_name": "synpic32970.jpg",
+    "question": "What is the location of the lesion?",
+    "answer": "right lower lateral lung field"
+  },
+  {
+    "image_name": "synpic32970.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "right lower lateral lung field"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "How large is the mass in the right upper quadrant?",
+    "answer": "3.4 cm"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "Size of the mass in the right upper quadrant?",
+    "answer": "3.4 cm"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "sella and suprasellar cistern"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "Where is the mass located?",
+    "answer": "sella and suprasellar cistern"
+  },
+  {
+    "image_name": "synpic42805.jpg",
+    "question": "What is the biological sex of the patient?",
+    "answer": "Female"
+  },
+  {
+    "image_name": "synpic17153.jpg",
+    "question": "MRI imaging modality used for this image?",
+    "answer": "T2 weighted"
+  },
+  {
+    "image_name": "synpic17153.jpg",
+    "question": "What type of MRI is used to acquire this image?",
+    "answer": "T2 weighted"
+  },
+  {
+    "image_name": "synpic30273.jpg",
+    "question": "The patient's left contains a bright round organ, what is it?",
+    "answer": "Left kidney"
+  },
+  {
+    "image_name": "synpic30273.jpg",
+    "question": "What is the bright round organ seen on the patient's left?",
+    "answer": "Left kidney"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "What organ system is shown in the above image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic46062.jpg",
+    "question": "What is the organ system in this image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "What organ system is being imaged?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "The hemorrhage is adjacent to what structures?",
+    "answer": "Left thalamus and basal ganglia"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "What structures are located near the hemorrhage shown?",
+    "answer": "Left thalamus and basal ganglia"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "What cranial nerves may be affected by the lesion seen in the above image?",
+    "answer": "Oculomotor nerve (CN III) and Trigeminal nerves (CN V)"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "Which cranial nerves are possibly affected by this lesion?",
+    "answer": "Oculomotor nerve (CN III) and Trigeminal nerves (CN V)"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "What type of MRI is this?",
+    "answer": "T2"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "What is the modality of this MRI?",
+    "answer": "T2"
+  },
+  {
+    "image_name": "synpic18896.jpg",
+    "question": "Imaging modality used to take this image?",
+    "answer": "PA Xray"
+  },
+  {
+    "image_name": "synpic18896.jpg",
+    "question": "What imaging modality is used to acquire this picture?",
+    "answer": "PA Xray"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "What major artery of the brain may be affected by the lesion seen in the above image?",
+    "answer": "Basilar artery"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "Which major artery of the brain is affected by this lesion?",
+    "answer": "Basilar artery"
+  },
+  {
+    "image_name": "synpic37605.jpg",
+    "question": "What MRI imaging sequence is shown above?",
+    "answer": "T2 weighted"
+  },
+  {
+    "image_name": "synpic37605.jpg",
+    "question": "What type of MRI is shown in the above image?",
+    "answer": "T2 weighted"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "Where are the brain lesions located?",
+    "answer": "Right hemisphere"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "Which hemisphere of the brain are the lesions located in?",
+    "answer": "Right hemisphere"
+  },
+  {
+    "image_name": "synpic53287.jpg",
+    "question": "What ventricle is the lesion compressing?",
+    "answer": "4th ventricle"
+  },
+  {
+    "image_name": "synpic53287.jpg",
+    "question": "Which ventricle is compressed by the lesion?",
+    "answer": "4th ventricle"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "Where do you see a large hematoma?",
+    "answer": "right lateral ventricle"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "Where is the large hematoma located?",
+    "answer": "right lateral ventricle"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "What organ system is shown in the above image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "Which organ system is shown in the image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "MRI imaging modality used?",
+    "answer": "DWI"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "What type of MRI is the above image?",
+    "answer": "DWI"
+  },
+  {
+    "image_name": "synpic53287.jpg",
+    "question": "In which brain area is the lesion located?",
+    "answer": "Right cerebellopontine angle"
+  },
+  {
+    "image_name": "synpic53287.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Right cerebellopontine angle"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "In what plane is the image above captured?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic27576.jpg",
+    "question": "What organ contains multiple lesions in the above image?",
+    "answer": "Kidneys"
+  },
+  {
+    "image_name": "synpic27576.jpg",
+    "question": "Which organ has multiple lesions?",
+    "answer": "Kidneys"
+  },
+  {
+    "image_name": "synpic31256.jpg",
+    "question": "How was this image taken?",
+    "answer": "X-ray"
+  },
+  {
+    "image_name": "synpic31256.jpg",
+    "question": "What imaging modality is seen?",
+    "answer": "X-ray"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "What organ system is being imaged?",
+    "answer": "Chest"
+  },
+  {
+    "image_name": "synpic30273.jpg",
+    "question": "The tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?",
+    "answer": "Adipose tissue"
+  },
+  {
+    "image_name": "synpic30273.jpg",
+    "question": "The tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?",
+    "answer": "Adipose tissue"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "How was this MRI taken?",
+    "answer": "DWI"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "What type of MRI is this?",
+    "answer": "DWI"
+  },
+  {
+    "image_name": "synpic42805.jpg",
+    "question": "In which lobes do you see a higher density of masses?",
+    "answer": "Upper lobes"
+  },
+  {
+    "image_name": "synpic42805.jpg",
+    "question": "Which lobes of the lung contain a higher density of masses?",
+    "answer": "Upper lobes"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "The lesion seen in the image above is isointense to what object that is normally found in the brain?",
+    "answer": "CSF"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "The lesion is isointense to what object normally found in the brain?",
+    "answer": "CSF"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "In what plane is this image taken?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "What imaging modality is used?",
+    "answer": "MRI - T1 weighted"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "The condition in which a patient has enlarged ventricles as seen in this image?",
+    "answer": "Hydrocephalus"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "What is the condition in which the ventricles are enlarged as seen in this image?",
+    "answer": "Hydrocephalus"
+  },
+  {
+    "image_name": "synpic60254.jpg",
+    "question": "What organ system is visualized in the above image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic52828.jpg",
+    "question": "How was this image taken?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic52828.jpg",
+    "question": "What imaging modality is used?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "In which lobe do you see an abnormal mass in the above images?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "Where is the abnormal mass located with respect to the lungs?",
+    "answer": "Right upper lobe"
+  },
+  {
+    "image_name": "synpic31256.jpg",
+    "question": "The azygoesophageal recess is deviated in which direction?",
+    "answer": "right"
+  },
+  {
+    "image_name": "synpic31256.jpg",
+    "question": "Which direction is the azygoesophageal recess deviated?",
+    "answer": "right"
+  },
+  {
+    "image_name": "synpic17145.jpg",
+    "question": "In which side is the hemidiaphragm elevated?",
+    "answer": "right"
+  },
+  {
+    "image_name": "synpic17145.jpg",
+    "question": "Which diaphragm is elevated?",
+    "answer": "right"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "What imaging modality was used to take this image?",
+    "answer": "Xray"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "Right posteroinferior cerebellum"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "What abnormality is present?",
+    "answer": "bleeding in the right posteroinferior cerebellum"
+  },
+  {
+    "image_name": "synpic20626.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Left cerebellum"
+  },
+  {
+    "image_name": "synpic20626.jpg",
+    "question": "Where is the abnormality in this image?",
+    "answer": "Left cerebellum"
+  },
+  {
+    "image_name": "synpic37275.jpg",
+    "question": "How is the patient positioned for this scan?",
+    "answer": "Supine (see air-fluid level)"
+  },
+  {
+    "image_name": "synpic22791.jpg",
+    "question": "What is the hypodensity in the liver?",
+    "answer": "Gallbladder"
+  },
+  {
+    "image_name": "synpic22791.jpg",
+    "question": "What are the hyperdensities on the periphery of the left side",
+    "answer": "Ribs"
+  },
+  {
+    "image_name": "synpic22791.jpg",
+    "question": "What are the foci of hyperdensities on the left?",
+    "answer": "Ribs"
+  },
+  {
+    "image_name": "synpic38069.jpg",
+    "question": "Where is the abnormality in this image?",
+    "answer": "Choroid plexus"
+  },
+  {
+    "image_name": "synpic38069.jpg",
+    "question": "Where is the mass located?",
+    "answer": "Lateral ventricles"
+  },
+  {
+    "image_name": "synpic16221.jpg",
+    "question": "What is the patient's gender?",
+    "answer": "Female"
+  },
+  {
+    "image_name": "synpic33331.jpg",
+    "question": "Why are the chostrochondral junctions not seen on this film?",
+    "answer": "Cartilage is not well viewed by x rays"
+  },
+  {
+    "image_name": "synpic16221.jpg",
+    "question": "How can you tell there is no pneumothorax present?",
+    "answer": "Lung markings present all the way laterally to the ribs"
+  },
+  {
+    "image_name": "synpic16221.jpg",
+    "question": "Why is the right lung most common location for aspirations?",
+    "answer": "The right mainstem bronchus is more in line with the trachea than the left"
+  },
+  {
+    "image_name": "synpic33331.jpg",
+    "question": "What is located immediately inferior to the right hemidiaphragm?",
+    "answer": "The liver"
+  },
+  {
+    "image_name": "synpic50958.jpg",
+    "question": "What radiographic sign is seen in the intestines",
+    "answer": "air fluid level"
+  },
+  {
+    "image_name": "synpic50958.jpg",
+    "question": "What is the finding in lumen of the intestine called?",
+    "answer": "air fluid level"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What are the multiple round hyperdensities located immediately inferior to the musculature?",
+    "answer": "Intestine"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What are the anterior circular hyperdensities?",
+    "answer": "Intestine"
+  },
+  {
+    "image_name": "synpic33302.jpg",
+    "question": "What is the air under the left hemidiaphragm?",
+    "answer": "Stomach bubble"
+  },
+  {
+    "image_name": "synpic33302.jpg",
+    "question": "What is hyperdensity under the diaphragm on the left?",
+    "answer": "Stomach bubble"
+  },
+  {
+    "image_name": "synpic59935.jpg",
+    "question": "Where is the infarct?",
+    "answer": "Left cerebellum"
+  },
+  {
+    "image_name": "synpic59935.jpg",
+    "question": "Which vessel is infarcted in this image?",
+    "answer": "Right PICA"
+  },
+  {
+    "image_name": "synpic34922.jpg",
+    "question": "What signs of cerebral edema are present?",
+    "answer": "Sulcal effacement"
+  },
+  {
+    "image_name": "synpic34922.jpg",
+    "question": "Which signs of edema are visualized here?",
+    "answer": "Sulcal effacement"
+  },
+  {
+    "image_name": "synpic59935.jpg",
+    "question": "What area of cerebrum is visible?",
+    "answer": "Temporal lobe"
+  },
+  {
+    "image_name": "synpic59935.jpg",
+    "question": "Which lobe of the cerebrum is visible?",
+    "answer": "Temporal lobe"
+  },
+  {
+    "image_name": "synpic37275.jpg",
+    "question": "Which vertebral level is this image?",
+    "answer": "L2"
+  },
+  {
+    "image_name": "synpic37275.jpg",
+    "question": "What level of the spine is most likely seen here?",
+    "answer": "L2-3"
+  },
+  {
+    "image_name": "synpic33481.jpg",
+    "question": "What else do you need in order to localize lesions on a CXR?",
+    "answer": "Lateral film as well as PA"
+  },
+  {
+    "image_name": "synpic20626.jpg",
+    "question": "What are the black areas at the top of the image?",
+    "answer": "Maxillary sinuses"
+  },
+  {
+    "image_name": "synpic20626.jpg",
+    "question": "What does the least dense region represent",
+    "answer": "Maxillary sinuses"
+  },
+  {
+    "image_name": "synpic50958.jpg",
+    "question": "What is the orientation of the patient?",
+    "answer": "Lying supine with their feet towards the screen"
+  },
+  {
+    "image_name": "synpic46764.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Left occipital lobe"
+  },
+  {
+    "image_name": "synpic46764.jpg",
+    "question": "Which lobe is the lesion in?",
+    "answer": "Left occipital lobe"
+  },
+  {
+    "image_name": "synpic34922.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Right temporal lobe"
+  },
+  {
+    "image_name": "synpic34922.jpg",
+    "question": "Where is the cortical lesion?",
+    "answer": "Right temporal lobe"
+  },
+  {
+    "image_name": "synpic16221.jpg",
+    "question": "What does the black on an x ray indicate?",
+    "answer": "Air"
+  },
+  {
+    "image_name": "synpic28569.jpg",
+    "question": "Where is the abnormality in this image?",
+    "answer": "Left kidney"
+  },
+  {
+    "image_name": "synpic28569.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Left kidney"
+  },
+  {
+    "image_name": "synpic29771.jpg",
+    "question": "What skeletal joint is seen in this image?",
+    "answer": "Sacroiliac joint"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What material is the peripheral hypodensity?",
+    "answer": "Fat"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What is the the dark gray surrounding the periphery of the image?",
+    "answer": "Fat"
+  },
+  {
+    "image_name": "synpic20375.jpg",
+    "question": "What side is the lesion on?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic47974.jpg",
+    "question": "What are the hyperdensities on the periphery of the image?",
+    "answer": "Ribs"
+  },
+  {
+    "image_name": "synpic47974.jpg",
+    "question": "What are the hyperdense opacities located around the periphery?",
+    "answer": "Ribs"
+  },
+  {
+    "image_name": "synpic17675.jpg",
+    "question": "What is better identified on a PA CXR vs a lateral CXR?",
+    "answer": "Right vs left sided pathology"
+  },
+  {
+    "image_name": "synpic37275.jpg",
+    "question": "If the mass compressed the left renal vein in a male\twhat else might you expect to see?",
+    "answer": "Varicocele"
+  },
+  {
+    "image_name": "synpic50958.jpg",
+    "question": "What does the small white lesions in the aorta mean",
+    "answer": "Calcification"
+  },
+  {
+    "image_name": "synpic50958.jpg",
+    "question": "What do the hyperdensities in the aorta suggest?",
+    "answer": "Calcification"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "What is the shape of the mass?",
+    "answer": "Elliptical"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "What is the form of the mass?",
+    "answer": "Elliptical"
+  },
+  {
+    "image_name": "synpic19232.jpg",
+    "question": "Describe the borders of the lesion.",
+    "answer": "Smooth"
+  },
+  {
+    "image_name": "synpic19232.jpg",
+    "question": "How are the borders of the lesion?",
+    "answer": "Smooth"
+  },
+  {
+    "image_name": "synpic48091.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "Left temporal horn"
+  },
+  {
+    "image_name": "synpic48091.jpg",
+    "question": "Where is the mass?",
+    "answer": "Left temporal horn"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "Can you name the organ captured by this image?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "How would you describe the lesion?",
+    "answer": "Ring-enhancing"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "What is this type of lesion called?",
+    "answer": "Ring-enhancing"
+  },
+  {
+    "image_name": "synpic31217.jpg",
+    "question": "What is the location of the abnormality?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic31217.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic32081.jpg",
+    "question": "What is the location of the abnormality?",
+    "answer": "Right side of the trachea"
+  },
+  {
+    "image_name": "synpic32081.jpg",
+    "question": "Where is the abnormality?",
+    "answer": "Right side of the trachea"
+  },
+  {
+    "image_name": "synpic55583.jpg",
+    "question": "Which plane is this image in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic53207.jpg",
+    "question": "The bottom of the image indicates what area of the brain?",
+    "answer": "Posterior brain"
+  },
+  {
+    "image_name": "synpic53207.jpg",
+    "question": "What injury does this brain image suggest?",
+    "answer": "hypoxic ischemic injury"
+  },
+  {
+    "image_name": "synpic53207.jpg",
+    "question": "What is evinced by this brain image?",
+    "answer": "Loss of normal gray-white matter junction"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "Name one organ that is captured by this image.",
+    "answer": "intestines"
+  },
+  {
+    "image_name": "synpic45364.jpg",
+    "question": "What is the location of the lesion?",
+    "answer": "Abdomen and pelvis"
+  },
+  {
+    "image_name": "synpic45364.jpg",
+    "question": "Where is the lesion?",
+    "answer": "Abdomen and pelvis"
+  },
+  {
+    "image_name": "synpic47020.jpg",
+    "question": "What is wrong with the ventricles?",
+    "answer": "Lateral and third ventricular hydrocephalus"
+  },
+  {
+    "image_name": "synpic47020.jpg",
+    "question": "What ventricular abnormalities are seen?",
+    "answer": "Lateral and third ventricular hydrocephalus"
+  },
+  {
+    "image_name": "synpic19232.jpg",
+    "question": "How would you describe the location of the lesion?",
+    "answer": "Retrocardiac"
+  },
+  {
+    "image_name": "synpic19232.jpg",
+    "question": "Where is the lesion located?",
+    "answer": "Retrocardiac"
+  },
+  {
+    "image_name": "synpic31217.jpg",
+    "question": "Where is the nodule?",
+    "answer": "Below the 7th rib in the right lung."
+  },
+  {
+    "image_name": "synpic31217.jpg",
+    "question": "What is the abnormality?",
+    "answer": "Single lung nodule"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "How was this image taken?",
+    "answer": "MRI"
+  },
+  {
+    "image_name": "synpic34054.jpg",
+    "question": "What is the condition of the patient",
+    "answer": "Blind loop syndrome"
+  },
+  {
+    "image_name": "synpic34054.jpg",
+    "question": "What abnormality is seen?",
+    "answer": "Blind-ending loop of bowel arising from the cecum"
+  },
+  {
+    "image_name": "synpic47020.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "Pineal region"
+  },
+  {
+    "image_name": "synpic47020.jpg",
+    "question": "Where is the mass?",
+    "answer": "Pineal region"
+  },
+  {
+    "image_name": "synpic55583.jpg",
+    "question": "Where are the lesions?",
+    "answer": "Bilateral frontal lobes"
+  },
+  {
+    "image_name": "synpic53207.jpg",
+    "question": "What type of image is this?",
+    "answer": "MRI-DWI"
+  },
+  {
+    "image_name": "synpic24878.jpg",
+    "question": "What is the location of the abnormality?",
+    "answer": "Right colon"
+  },
+  {
+    "image_name": "synpic24878.jpg",
+    "question": "Where is the abnormal finding?",
+    "answer": "Right colon"
+  },
+  {
+    "image_name": "synpic27646.jpg",
+    "question": "What plane is seen?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic48091.jpg",
+    "question": "How would you describe the mass?",
+    "answer": "Isointense"
+  },
+  {
+    "image_name": "synpic48091.jpg",
+    "question": "What are the characteristics of the mass?",
+    "answer": "Isointense"
+  },
+  {
+    "image_name": "synpic31217.jpg",
+    "question": "Which plane is this image taken in?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic47020.jpg",
+    "question": "What is the radiological description of the mass?",
+    "answer": "Hyperintense"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "What allows for the bright areas seen in this image?",
+    "answer": "IV contrast"
+  },
+  {
+    "image_name": "synpic24878.jpg",
+    "question": "What is the condition?",
+    "answer": "Diverticulitis"
+  },
+  {
+    "image_name": "synpic24878.jpg",
+    "question": "What is the pathology?",
+    "answer": "Diverticulitis"
+  },
+  {
+    "image_name": "synpic27646.jpg",
+    "question": "How can the distribution in this image be described?",
+    "answer": "Micronodular"
+  },
+  {
+    "image_name": "synpic27646.jpg",
+    "question": "What type of distributions is seen on this image?",
+    "answer": "Micronodular"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "Left rectus abdominus"
+  },
+  {
+    "image_name": "synpic40426.jpg",
+    "question": "Where is the mass?",
+    "answer": "Left rectus abdominus"
+  },
+  {
+    "image_name": "synpic42210.jpg",
+    "question": "What do the two bright dots represent?",
+    "answer": "nipple location"
+  },
+  {
+    "image_name": "synpic42210.jpg",
+    "question": "What are the two hyperlucent inferior dots?",
+    "answer": "nipple location"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "In what plane was this image taken?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "What are the locations of the hyperintensities?",
+    "answer": "bilateral frontal lobes and body of corpus callosum"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "Where are the hyperintensities located?",
+    "answer": "bilateral frontal lobes and body of corpus callosum"
+  },
+  {
+    "image_name": "synpic100176.jpg",
+    "question": "What laterality is this film?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "What artery is the embolus from?",
+    "answer": "distal basilar artery"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "Where is the embolus located?",
+    "answer": "distal basilar artery"
+  },
+  {
+    "image_name": "synpic53867.jpg",
+    "question": "The mass is located in what region?",
+    "answer": "suprasellar"
+  },
+  {
+    "image_name": "synpic53867.jpg",
+    "question": "Where is the mass located?",
+    "answer": "suprasellar"
+  },
+  {
+    "image_name": "synpic24967.jpg",
+    "question": "What are the bright specks in the gallbladder",
+    "answer": "Gallstones"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "The imaging modality is...?",
+    "answer": "MRI/FLAIR"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "What is the image modality?",
+    "answer": "MRI/FLAIR"
+  },
+  {
+    "image_name": "synpic33892.jpg",
+    "question": "What image modality is this?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic33892.jpg",
+    "question": "What imaging modality was used",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "What two tributaries of blood vessels are impacted?",
+    "answer": "left ACA and MCA"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "Which blood vessels are affected?",
+    "answer": "left ACA and MCA"
+  },
+  {
+    "image_name": "synpic12210.jpg",
+    "question": "What imaging modality was used?",
+    "answer": "x-ray"
+  },
+  {
+    "image_name": "synpic12210.jpg",
+    "question": "What type of image is this?",
+    "answer": "x-ray"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What organ is affected by pathology in this image?",
+    "answer": "brain"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What structures are involved?",
+    "answer": "Caudate, putamen, left parietal"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "Where is the pathology located?",
+    "answer": "anterior cerebrum"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "Which region of the brain is impacted?",
+    "answer": "Anterior surface"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "What is behind the liver?",
+    "answer": "ascites"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "What finding is associated with liver?",
+    "answer": "ascites"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "What type of image is this?",
+    "answer": "MRI-FLAIR"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "what imaging modality was used",
+    "answer": "MRI-FLAIR"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What imaging plane is depicted here?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What is the plane?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic31757.jpg",
+    "question": "What is the location of the mass?",
+    "answer": "right kidney"
+  },
+  {
+    "image_name": "synpic31757.jpg",
+    "question": "Where is the mass located?",
+    "answer": "right kidney"
+  },
+  {
+    "image_name": "synpic28718.jpg",
+    "question": "How was this image taken?",
+    "answer": "With contrast"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "What do the hyperintensities likely represent?",
+    "answer": "Hemorrhage"
+  },
+  {
+    "image_name": "synpic54391.jpg",
+    "question": "What are the hyperintensities signaling?",
+    "answer": "Hemorrhage"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "What organ system is shown?",
+    "answer": "brain"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "What structure is depicted?",
+    "answer": "brain"
+  },
+  {
+    "image_name": "synpic22794.jpg",
+    "question": "What pathology does the image represent",
+    "answer": "kidney cyst"
+  },
+  {
+    "image_name": "synpic22794.jpg",
+    "question": "What is the mass most likely?",
+    "answer": "kidney cyst"
+  },
+  {
+    "image_name": "synpic23008.jpg",
+    "question": "How was this image taken?",
+    "answer": "With contrast"
+  },
+  {
+    "image_name": "synpic24967.jpg",
+    "question": "What is the lighter substance around the gallbladder",
+    "answer": "Pericholecystic fluid"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "What type of imaging was used?",
+    "answer": "MR - T2 weighted"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "Which image modality is this?",
+    "answer": "MR - T2 weighted"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "What is the plane?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "What plane was used?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic25105.jpg",
+    "question": "What is wrong with the pancreas?",
+    "answer": "fatty infiltration"
+  },
+  {
+    "image_name": "synpic25105.jpg",
+    "question": "What pathology does the pancreas deominstrate?",
+    "answer": "fatty infiltration"
+  },
+  {
+    "image_name": "synpic28210.jpg",
+    "question": "What organ exhibits pathology",
+    "answer": "jejunum"
+  },
+  {
+    "image_name": "synpic28210.jpg",
+    "question": "Which part of the bowel is involved by the mass?",
+    "answer": "jejunum"
+  },
+  {
+    "image_name": "synpic24967.jpg",
+    "question": "What plane are we in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "What is the modality used?",
+    "answer": "MR - ADC Map"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "What imaging method was used?",
+    "answer": "MR - ADC Map"
+  },
+  {
+    "image_name": "synpic12210.jpg",
+    "question": "What is at the base of the right lung?",
+    "answer": "nodules"
+  },
+  {
+    "image_name": "synpic12210.jpg",
+    "question": "What pathology is shown at the lung bases?",
+    "answer": "nodules"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "How was the image taken?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic56061.jpg",
+    "question": "What plane was used in this image?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic42210.jpg",
+    "question": "What image modality is this?",
+    "answer": "X-ray"
+  },
+  {
+    "image_name": "synpic28718.jpg",
+    "question": "The abscess is located in what structure?",
+    "answer": "descending colon"
+  },
+  {
+    "image_name": "synpic28718.jpg",
+    "question": "Where is the abscess located?",
+    "answer": "descending colon"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "Where are the hyperlucencies located?",
+    "answer": "thalami, left occipital lobe, brainstem and left cerebellum"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "Which areas are lighting up?",
+    "answer": "thalami, left occipital lobe, brainstem and left cerebellum"
+  },
+  {
+    "image_name": "synpic33892.jpg",
+    "question": "What organ is involved?",
+    "answer": "pancreas"
+  },
+  {
+    "image_name": "synpic33892.jpg",
+    "question": "Which organ is affected?",
+    "answer": "pancreas"
+  },
+  {
+    "image_name": "synpic28718.jpg",
+    "question": "Where are the kidneys located?",
+    "answer": "Adjacent to vertebrae"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What imaging modality was used?",
+    "answer": "MR - Flair"
+  },
+  {
+    "image_name": "synpic52248.jpg",
+    "question": "What type of image modality is this?",
+    "answer": "MR - Flair"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "What organ is enlarged?",
+    "answer": "Spleen"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "Which organ is abnormally large?",
+    "answer": "Spleen"
+  },
+  {
+    "image_name": "synpic53867.jpg",
+    "question": "What does the enhancing periphery of the mass represent?",
+    "answer": "Calcification"
+  },
+  {
+    "image_name": "synpic53867.jpg",
+    "question": "What is the outer rim of the mass?",
+    "answer": "Calcification"
+  },
+  {
+    "image_name": "synpic42210.jpg",
+    "question": "What are the two humps\" at the base on the image signifying?\"",
+    "answer": "Diaphragm"
+  },
+  {
+    "image_name": "synpic52988.jpg",
+    "question": "Blunting of the costophrenic angles indicate what condition?",
+    "answer": "pleural effusion"
+  },
+  {
+    "image_name": "synpic52988.jpg",
+    "question": "What does the blunting of the costophrenic angles indicate?",
+    "answer": "pleural effusion"
+  },
+  {
+    "image_name": "synpic23008.jpg",
+    "question": "What are the two bright images on either side",
+    "answer": "Hip bones"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "Which plane is the image in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic52932.jpg",
+    "question": "What organ system is visualized?",
+    "answer": "chest"
+  },
+  {
+    "image_name": "synpic32981.jpg",
+    "question": "What imaging modality was used?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic57237.jpg",
+    "question": "Which ventricle is the mass located in?",
+    "answer": "4th ventricle"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "What part of the posterior brain contains the lesions?",
+    "answer": "temporal and lateral occipital lobes"
+  },
+  {
+    "image_name": "synpic18319.jpg",
+    "question": "Which lung are the nodules located in?",
+    "answer": "Bilateral"
+  },
+  {
+    "image_name": "synpic45634.jpg",
+    "question": "What is the signal intensity of the lesion?",
+    "answer": "Mixed intensity"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "In what lobe of the brain is the lesion located?",
+    "answer": "Right temporal lobe"
+  },
+  {
+    "image_name": "synpic27601.jpg",
+    "question": "Where is the spleen located?",
+    "answer": "On the left"
+  },
+  {
+    "image_name": "synpic676.jpg",
+    "question": "What modality is used to take this image?",
+    "answer": "XR"
+  },
+  {
+    "image_name": "synpic45162.jpg",
+    "question": "How many gallstones are identified?",
+    "answer": 4
+  },
+  {
+    "image_name": "synpic60543.jpg",
+    "question": "What would be the most probably diagnosis for this patient?",
+    "answer": "acute stroke"
+  },
+  {
+    "image_name": "synpic27277.jpg",
+    "question": "Why is the left hemithorax more lucent?",
+    "answer": "decreased muscle bulk"
+  },
+  {
+    "image_name": "synpic31757.jpg",
+    "question": "How big is the mass?",
+    "answer": "6.5 x 6.2 x 8.8cm"
+  },
+  {
+    "image_name": "synpic23631.jpg",
+    "question": "What is the term for the sign in this image?",
+    "answer": "right vertebral artery sign"
+  },
+  {
+    "image_name": "synpic33481.jpg",
+    "question": "Which lung lobe has the least opacities?",
+    "answer": "Upper left"
+  },
+  {
+    "image_name": "synpic33331.jpg",
+    "question": "Which side is the diaphragm more depressed?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic24248.jpg",
+    "question": "Term for the enhancement of the luminal surface seen in the image?",
+    "answer": "mucosal hyperemia"
+  },
+  {
+    "image_name": "synpic53287.jpg",
+    "question": "How large is the mass?",
+    "answer": "5cm"
+  },
+  {
+    "image_name": "synpic30273.jpg",
+    "question": "The hyperattenuating ovoid mass is lateral to what structure?",
+    "answer": "ascending colon"
+  },
+  {
+    "image_name": "synpic32933.jpg",
+    "question": "Where is the abnormality located?",
+    "answer": "R hemidiaphragm"
+  },
+  {
+    "image_name": "synpic20375.jpg",
+    "question": "What is the size of the lesion",
+    "answer": "Almost entire right side"
+  },
+  {
+    "image_name": "synpic29048.jpg",
+    "question": "What part of the body does this radiograph show?",
+    "answer": "chest"
+  },
+  {
+    "image_name": "synpic17153.jpg",
+    "question": "The increased signal is a result of what material?",
+    "answer": "fluid"
+  },
+  {
+    "image_name": "synpic34054.jpg",
+    "question": "Which kidney has fluid around it?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic59935.jpg",
+    "question": "What does the abnormality in this image represent?",
+    "answer": "Infarct"
+  },
+  {
+    "image_name": "synpic50962.jpg",
+    "question": "What structures is identified in the middle of this image?",
+    "answer": "Pons"
+  },
+  {
+    "image_name": "synpic60831.jpg",
+    "question": "What type of image modality is used?",
+    "answer": "MRI"
+  },
+  {
+    "image_name": "synpic34836.jpg",
+    "question": "Is there an acute bleed present?",
+    "answer": "Necrotic tissue"
+  },
+  {
+    "image_name": "synpic28378.jpg",
+    "question": "What is on the anterior wall of the right chest?",
+    "answer": "Mediport"
+  },
+  {
+    "image_name": "synpic17145.jpg",
+    "question": "What type of imaging is this?",
+    "answer": "Xray"
+  },
+  {
+    "image_name": "synpic22791.jpg",
+    "question": "How many kidneys are visualizable in this image?",
+    "answer": 2
+  },
+  {
+    "image_name": "synpic13385.jpg",
+    "question": "Is the trachea midline?",
+    "answer": "Midline"
+  },
+  {
+    "image_name": "synpic27576.jpg",
+    "question": "What do the masses contain?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic21776.jpg",
+    "question": "What organ is superimposed on the lung fields?",
+    "answer": "Breasts"
+  },
+  {
+    "image_name": "synpic16221.jpg",
+    "question": "Which side is the abnormality on?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic18461.jpg",
+    "question": "Which lung has diffuse opacification?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "What modality is used in this image?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic18896.jpg",
+    "question": "What does the abnormal contour of the left hilum suggest in terms of pathology?",
+    "answer": "double arch"
+  },
+  {
+    "image_name": "synpic17738.jpg",
+    "question": "The cystic findings in the bilateral apices are consistent with what pathology?",
+    "answer": "emphysema"
+  },
+  {
+    "image_name": "synpic57317.jpg",
+    "question": "How would you describe the sulci in this image?",
+    "answer": "reduced sulci"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "What does the black area signify?",
+    "answer": "Black"
+  },
+  {
+    "image_name": "synpic51709.jpg",
+    "question": "What side of the brain is the lesion on?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic32081.jpg",
+    "question": "What is the gender of this patient?",
+    "answer": "Man"
+  },
+  {
+    "image_name": "synpic42210.jpg",
+    "question": "Where is the location of the mass?",
+    "answer": "anterior mediastinum"
+  },
+  {
+    "image_name": "synpic49027.jpg",
+    "question": "How many ring enhancing lesions can be found in this image?",
+    "answer": "one"
+  },
+  {
+    "image_name": "synpic26248.jpg",
+    "question": "Which orientation is the image acquired?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic27655.jpg",
+    "question": "What imaging modality is used?",
+    "answer": "Xray"
+  },
+  {
+    "image_name": "synpic45544.jpg",
+    "question": "What is the hyperdensity in the image?",
+    "answer": "Infarct"
+  },
+  {
+    "image_name": "synpic21734.jpg",
+    "question": "How large is the mass?",
+    "answer": "5mm"
+  },
+  {
+    "image_name": "synpic57935.jpg",
+    "question": "What image plane is this?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic100176.jpg",
+    "question": "What modality was used?",
+    "answer": "plain film"
+  },
+  {
+    "image_name": "synpic45699.jpg",
+    "question": "Which side was affected?",
+    "answer": "left"
+  },
+  {
+    "image_name": "synpic39301.jpg",
+    "question": "In what lobes are the lesions located?",
+    "answer": "bilateral parietal lobes"
+  },
+  {
+    "image_name": "synpic40096.jpg",
+    "question": "What is on the differential?",
+    "answer": "Chronic sinusitis vs. hemorrhage"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "What modality was used for this image?",
+    "answer": "MRI"
+  },
+  {
+    "image_name": "synpic38263.jpg",
+    "question": "Where are the signals most intense?",
+    "answer": "Frontal and Occipital"
+  },
+  {
+    "image_name": "synpic56116.jpg",
+    "question": "Where are the infarcts?",
+    "answer": "basal ganglia, cerebellum, cerebral cortex"
+  },
+  {
+    "image_name": "synpic30215.jpg",
+    "question": "What is the image plane?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic53574.jpg",
+    "question": "In what plane is the above image?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic52732.jpg",
+    "question": "What is abnormal about the image?",
+    "answer": "White matter plaques"
+  },
+  {
+    "image_name": "synpic28987.jpg",
+    "question": "What imaging modality is used?",
+    "answer": "plain film xray"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "What plane is the image in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic41050.jpg",
+    "question": "Is there contrast in the bowels?",
+    "answer": "In the bowels"
+  },
+  {
+    "image_name": "synpic51426.jpg",
+    "question": "The hypointense nature of the hemorrhage signifies what in terms of the timeline?",
+    "answer": "early hemorrhage"
+  },
+  {
+    "image_name": "synpic21995.jpg",
+    "question": "Is the spleen present?",
+    "answer": "On the patient's left"
+  },
+  {
+    "image_name": "synpic57813.jpg",
+    "question": "How would you describe the R vertebral artery shape?",
+    "answer": "Short section irregular contour"
+  },
+  {
+    "image_name": "synpic16407.jpg",
+    "question": "Which side of the lungs are hyperinflated?",
+    "answer": "Bilateral lungs"
+  },
+  {
+    "image_name": "synpic21700.jpg",
+    "question": "How many masses are there?",
+    "answer": "One"
+  },
+  {
+    "image_name": "synpic31928.jpg",
+    "question": "What type of MR image modality is seen?",
+    "answer": "T2 weighted"
+  },
+  {
+    "image_name": "synpic28569.jpg",
+    "question": "How many kidneys are in this image?",
+    "answer": 2
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "In what plane is the CT scan?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic52828.jpg",
+    "question": "The enhancing soft tissue mass and fluid seen in the left upper quadrant is consistent with what pathology?",
+    "answer": "abscess"
+  },
+  {
+    "image_name": "synpic22097.jpg",
+    "question": "What does this represent?",
+    "answer": "hydropneumothorax"
+  },
+  {
+    "image_name": "synpic37275.jpg",
+    "question": "Which organ contains the air-fluid level?",
+    "answer": "Stomach"
+  },
+  {
+    "image_name": "synpic52282.jpg",
+    "question": "What type of MRI modality is used?",
+    "answer": "DWI Diffusion weighted"
+  },
+  {
+    "image_name": "synpic31259.jpg",
+    "question": "How many masses are there?",
+    "answer": "one"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "What type of thrombosis is shown?",
+    "answer": "basilar artery thrombosis"
+  },
+  {
+    "image_name": "synpic24220.jpg",
+    "question": "Where is the liver?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic35914.jpg",
+    "question": "Is there contrast present in the bowel?",
+    "answer": "In the bowel"
+  },
+  {
+    "image_name": "synpic26697.jpg",
+    "question": "What image modality is used?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic24424.jpg",
+    "question": "How many masses are there?",
+    "answer": "one"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "What type of contrast agent is used in this MRI?",
+    "answer": "gadolinium"
+  },
+  {
+    "image_name": "synpic32962.jpg",
+    "question": "Where is the opacity located?",
+    "answer": "Right of the midline, superior to the right hilum"
+  },
+  {
+    "image_name": "synpic45557.jpg",
+    "question": "Is the trachea midline?",
+    "answer": "In the midline"
+  },
+  {
+    "image_name": "synpic22794.jpg",
+    "question": "What imaging modality was used?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic53867.jpg",
+    "question": "How big is the mass in cm?",
+    "answer": "2.5cm x 1.7cm x 1.6cm"
+  },
+  {
+    "image_name": "synpic25758.jpg",
+    "question": "What plane is this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic53816.jpg",
+    "question": "What is the intensity signal of CSF?",
+    "answer": "Hypointense"
+  },
+  {
+    "image_name": "synpic53816.jpg",
+    "question": "What modality is this image taken?",
+    "answer": "MRI"
+  },
+  {
+    "image_name": "synpic39141.jpg",
+    "question": "What imaging modality is seen here?",
+    "answer": "CT"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "What plane of section is the brain taken in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "What cut of the brain is this image taken?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic58902.jpg",
+    "question": "How is the CSF enhancement characterized?",
+    "answer": "Non-enhanced"
+  },
+  {
+    "image_name": "synpic100228.jpg",
+    "question": "What plane was this chest film taken in?",
+    "answer": "AP"
+  },
+  {
+    "image_name": "synpic39141.jpg",
+    "question": "What is the section level of this image?",
+    "answer": "Mid abdomen"
+  },
+  {
+    "image_name": "synpic39141.jpg",
+    "question": "Where is this slice located in the human body?",
+    "answer": "Mid abdomen"
+  },
+  {
+    "image_name": "synpic32084.jpg",
+    "question": "What type of radiograph is this?",
+    "answer": "Chest radiograph"
+  },
+  {
+    "image_name": "synpic41667.jpg",
+    "question": "What structure is seen in the left hemidiaphragmatic area?",
+    "answer": "Sigmoid Flexture of the Colon"
+  },
+  {
+    "image_name": "synpic41667.jpg",
+    "question": "What structure is superimposed on the left hemidiaphragm?",
+    "answer": "Sigmoid Flexture of the Colon"
+  },
+  {
+    "image_name": "synpic59126.jpg",
+    "question": "Where is the gastric bubble located?",
+    "answer": "Underneath the right hemidiaphragm"
+  },
+  {
+    "image_name": "synpic59126.jpg",
+    "question": "Where is the gastric bubble placed?",
+    "answer": "Underneath the right hemidiaphragm"
+  },
+  {
+    "image_name": "synpic32084.jpg",
+    "question": "What was this image taken with?",
+    "answer": "X-ray"
+  },
+  {
+    "image_name": "synpic9872.jpg",
+    "question": "What is the location of the brain mass?",
+    "answer": "Posterior fossa"
+  },
+  {
+    "image_name": "synpic9872.jpg",
+    "question": "Where is the mass located?",
+    "answer": "Posterior fossa"
+  },
+  {
+    "image_name": "synpic100228.jpg",
+    "question": "What is the location of the three circular opacities?",
+    "answer": "Stomach"
+  },
+  {
+    "image_name": "synpic100228.jpg",
+    "question": "Where are the three circular opacities located?",
+    "answer": "Stomach"
+  },
+  {
+    "image_name": "synpic40500.jpg",
+    "question": "What organ is this image of?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic48714.jpg",
+    "question": "What brain territory is the hemorrhage located?",
+    "answer": "Right Sylvian Fissure"
+  },
+  {
+    "image_name": "synpic48714.jpg",
+    "question": "Which fissure is the hemorrhage located?",
+    "answer": "Right Sylvian Fissure"
+  },
+  {
+    "image_name": "synpic41667.jpg",
+    "question": "What vein is the central venous catheter located in the patient?",
+    "answer": "Right Subclavian Vein"
+  },
+  {
+    "image_name": "synpic41667.jpg",
+    "question": "Where is the central venous catheter placed?",
+    "answer": "Right Subclavian Vein"
+  },
+  {
+    "image_name": "synpic22828.jpg",
+    "question": "What plane of the abdomen is this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic42157.jpg",
+    "question": "What form of contrast did the patient receive?",
+    "answer": "Oral and IV"
+  },
+  {
+    "image_name": "synpic42157.jpg",
+    "question": "What types of contrast did this patient have?",
+    "answer": "Oral and IV"
+  },
+  {
+    "image_name": "synpic31232.jpg",
+    "question": "What cut of the body is this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic59126.jpg",
+    "question": "How was this film taken?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic41667.jpg",
+    "question": "What parts of the lung fields contain the most prominent ground glass opacities?",
+    "answer": "Lower lung fields"
+  },
+  {
+    "image_name": "synpic60703.jpg",
+    "question": "How is the artifact in this image categorized?",
+    "answer": "Motion"
+  },
+  {
+    "image_name": "synpic60703.jpg",
+    "question": "What type of artifact is shown in this image?",
+    "answer": "Motion"
+  },
+  {
+    "image_name": "synpic42157.jpg",
+    "question": "What is located in the sigmoid colon?",
+    "answer": "Diverticuli"
+  },
+  {
+    "image_name": "synpic42157.jpg",
+    "question": "What are the findings in the sigmoid colon?",
+    "answer": "Diverticuli"
+  },
+  {
+    "image_name": "synpic60703.jpg",
+    "question": "What brain region demonstrates edema?",
+    "answer": "Basal Ganglia"
+  },
+  {
+    "image_name": "synpic60703.jpg",
+    "question": "What area of the brain is edematous?",
+    "answer": "Basal Ganglia"
+  },
+  {
+    "image_name": "synpic24729.jpg",
+    "question": "What type of plane is this image of?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic24729.jpg",
+    "question": "What plane was this image taken in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic22020.jpg",
+    "question": "What is the muscle adjacent to the vertebrae?",
+    "answer": "Psoas Major Muscle"
+  },
+  {
+    "image_name": "synpic22020.jpg",
+    "question": "What muscle surrounds the vertebrae?",
+    "answer": "Psoas Major Muscle"
+  },
+  {
+    "image_name": "synpic53816.jpg",
+    "question": "What section is this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic53816.jpg",
+    "question": "What plane is this image taken?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic56841.jpg",
+    "question": "What cross section of the brain is this image?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic48714.jpg",
+    "question": "What category is the hemmorhage?",
+    "answer": "Subarachnoid"
+  },
+  {
+    "image_name": "synpic48714.jpg",
+    "question": "What type of hemorrhage is shown?",
+    "answer": "Subarachnoid"
+  },
+  {
+    "image_name": "synpic40500.jpg",
+    "question": "What modality is this image taken?",
+    "answer": "MRI"
+  },
+  {
+    "image_name": "synpic58902.jpg",
+    "question": "What is the MRI modality depicted in this image?",
+    "answer": "FLAIR"
+  },
+  {
+    "image_name": "synpic24729.jpg",
+    "question": "What contrast was administered to this patient?",
+    "answer": "Oral and IV"
+  },
+  {
+    "image_name": "synpic24729.jpg",
+    "question": "What types of contrast does this patient have?",
+    "answer": "Oral and IV"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "Which half the cerebellum is the largest mass located?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "Which side of the cerebellum contains the largest mass?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic53816.jpg",
+    "question": "What organ is this image of?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "What type of modality was this image taken?",
+    "answer": "MRI - T2 Weighted"
+  },
+  {
+    "image_name": "synpic47964.jpg",
+    "question": "What is the MR weighting in this image?",
+    "answer": "MRI - T2 Weighted"
+  },
+  {
+    "image_name": "synpic32727.jpg",
+    "question": "Where are the densities identified in the patient?",
+    "answer": "Posterior to the gastric antrum"
+  },
+  {
+    "image_name": "synpic32727.jpg",
+    "question": "What are the hyperattenuations located around the patient?",
+    "answer": "Ribs"
+  },
+  {
+    "image_name": "synpic9872.jpg",
+    "question": "What is the imaging modality?",
+    "answer": "MR-FLAIR"
+  },
+  {
+    "image_name": "synpic22828.jpg",
+    "question": "What are the hyperdense lesions noted at the edges of the aorta?",
+    "answer": "Calcified atherosclerosis"
+  },
+  {
+    "image_name": "synpic22828.jpg",
+    "question": "What are the hyperintensities surrounding the aorta?",
+    "answer": "Calcified atherosclerosis"
+  },
+  {
+    "image_name": "synpic42157.jpg",
+    "question": "What are the internal morphologic features of this mass?",
+    "answer": "Cystic"
+  },
+  {
+    "image_name": "synpic31928.jpg",
+    "question": "What part of the CNS is this image showing?",
+    "answer": "Brain"
+  },
+  {
+    "image_name": "synpic31928.jpg",
+    "question": "What is the sequence of this MRI?",
+    "answer": "T2-weighted"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "The lesion is located where in this image?",
+    "answer": "right lobe of the liver"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "Where is the lesion located in this image?",
+    "answer": "right lobe of the liver"
+  },
+  {
+    "image_name": "synpic22874.jpg",
+    "question": "In which vessel is calcification present?",
+    "answer": "Aorta"
+  },
+  {
+    "image_name": "synpic22874.jpg",
+    "question": "The calcification is located in what vessel?",
+    "answer": "Aorta"
+  },
+  {
+    "image_name": "synpic31928.jpg",
+    "question": "What condition is found in the above image?",
+    "answer": "right subdural hematoma"
+  },
+  {
+    "image_name": "synpic31928.jpg",
+    "question": "What pathology is seen in this image?",
+    "answer": "right subdural hematoma"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "In what organ do you see swelling?",
+    "answer": "Appendix"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "What organ is edematous in this image?",
+    "answer": "Appendix"
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "What pathology is seen in this image?",
+    "answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy"
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "What is wrong with the patient's scan?",
+    "answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy"
+  },
+  {
+    "image_name": "synpic32012.jpg",
+    "question": "This image is suspicious of what cancerous pathology?",
+    "answer": "hepatocellular carcioma"
+  },
+  {
+    "image_name": "synpic32012.jpg",
+    "question": "What cancer does this patient have?",
+    "answer": "hepatocellular carcioma"
+  },
+  {
+    "image_name": "synpic53574.jpg",
+    "question": "The infarcts seen are most likely what type?",
+    "answer": "punctate"
+  },
+  {
+    "image_name": "synpic53574.jpg",
+    "question": "What types of infarcts are these most likely?",
+    "answer": "punctate"
+  },
+  {
+    "image_name": "synpic33102.jpg",
+    "question": "How was this film taken?",
+    "answer": "PA"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "On what side of the body is there pathology, and what is it?",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "What is the pathology?",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "What pathology is seen int his image? ",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "What pathology is seen int his image? What side?",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "On what side of the body is there pathology?",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic25587.jpg",
+    "question": "What side is the pathology?",
+    "answer": "right sided pleural effusion"
+  },
+  {
+    "image_name": "synpic60543.jpg",
+    "question": "The image probably had what incidental finding?",
+    "answer": "cavum vergae"
+  },
+  {
+    "image_name": "synpic60543.jpg",
+    "question": "What was probably found incidentally on this image?",
+    "answer": "cavum vergae"
+  },
+  {
+    "image_name": "synpic26697.jpg",
+    "question": "What organ system is highlighted by contrast?",
+    "answer": "GI"
+  },
+  {
+    "image_name": "synpic31116.jpg",
+    "question": "Describe the intensity of the abnormality seen in this image? (central vs. surrounding)",
+    "answer": "central hyperintensity and surrounding hypointensity"
+  },
+  {
+    "image_name": "synpic31116.jpg",
+    "question": "How would you describe the central and surrounding intesities of the abnormality seen?",
+    "answer": "central hyperintensity and surrounding hypointensity"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "This image is taken in what plane?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "The contrast is enhancing what inside the lesion?",
+    "answer": "calcifications"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "What is enhanced by contrast in the lesion?",
+    "answer": "calcifications"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "Describe the density of this lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "What is the density of the lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "Describe the size of this lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "What is the size of the lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "Describe the size and density of this lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic27198.jpg",
+    "question": "What is the size and density of the lesion?",
+    "answer": "5.6cm focal, predominantly hypodense"
+  },
+  {
+    "image_name": "synpic32012.jpg",
+    "question": "What vascular problem is seen above?",
+    "answer": "portal vein occlusion"
+  },
+  {
+    "image_name": "synpic32012.jpg",
+    "question": "What vein is occluded?",
+    "answer": "Portal vein"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "Why are there no sulci seen in this image?",
+    "answer": "there is massive cerebral hemisphere edema"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "Why do you not see sulci in the image?",
+    "answer": "there is massive cerebral hemisphere edema"
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "What plane is this image in?",
+    "answer": "Axial"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "This image is consistent with what condition?",
+    "answer": "appendicitis"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "What condition does the patient have?",
+    "answer": "appendicitis"
+  },
+  {
+    "image_name": "synpic31116.jpg",
+    "question": "In what plane was this image taken?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic31116.jpg",
+    "question": "What plane was this image taken in?",
+    "answer": "axial"
+  },
+  {
+    "image_name": "synpic29048.jpg",
+    "question": "The image has an abnormality located where?",
+    "answer": "retrocardiac"
+  },
+  {
+    "image_name": "synpic29048.jpg",
+    "question": "Where is the abnormality located in this image?",
+    "answer": "retrocardiac"
+  },
+  {
+    "image_name": "synpic32012.jpg",
+    "question": "What is the pathology seen in the spleen?",
+    "answer": "nothing"
+  },
+  {
+    "image_name": "synpic52282.jpg",
+    "question": "What structure in the left basal ganglia is spared?",
+    "answer": "Left thalamus"
+  },
+  {
+    "image_name": "synpic52282.jpg",
+    "question": "What is spared in the left basal ganglia?",
+    "answer": "Left thalamus"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "Pathology seen in this image?",
+    "answer": "small subdural hematoma with cerebral edema"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "What is the condition seen in this image?",
+    "answer": "small subdural hematoma with cerebral edema"
+  },
+  {
+    "image_name": "synpic23571.jpg",
+    "question": "Where Is there obstruction present?",
+    "answer": "proximal aspect of the appendix"
+  },
+  {
+    "image_name": "synpic23571.jpg",
+    "question": "Where is obstruction present, if any?",
+    "answer": "proximal aspect of the appendix"
+  },
+  {
+    "image_name": "synpic26697.jpg",
+    "question": "Free air is seen where in this image?",
+    "answer": "adjacent to the appendix"
+  },
+  {
+    "image_name": "synpic26697.jpg",
+    "question": "Where is the free-air seen in this image?",
+    "answer": "adjacent to the appendix"
+  },
+  {
+    "image_name": "synpic52282.jpg",
+    "question": "The infarction is likely caused by what vessel?",
+    "answer": "left MCA"
+  },
+  {
+    "image_name": "synpic52282.jpg",
+    "question": "What vessel is likely the cause of this infarction?",
+    "answer": "left MCA"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "What would you call the lesions seen?",
+    "answer": "MS plaques"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "What is the name of the lesions seen in this image?",
+    "answer": "MS plaques"
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "There is mesenteric lymphadenopathy present, what additional region is seeded?",
+    "answer": "peritoneum"
+  },
+  {
+    "image_name": "synpic47191.jpg",
+    "question": "We see mesenteric lymphadenopathy in the above image, where else is there cancer?",
+    "answer": "peritoneum"
+  },
+  {
+    "image_name": "synpic53574.jpg",
+    "question": "What is the vascular distribution of these infarcts?",
+    "answer": "all three vascular distributions"
+  },
+  {
+    "image_name": "synpic53574.jpg",
+    "question": "Where are the infarcts located?",
+    "answer": "diffuse"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "The pathology seen in this image is typical of what disease?",
+    "answer": "multiple sclerosis"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "What disease does the pathology suggest?",
+    "answer": "multiple sclerosis"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "In what parts of the brain are the lesions located?",
+    "answer": "cerebrum and lateral ventricles"
+  },
+  {
+    "image_name": "synpic58547.jpg",
+    "question": "Where do you see the lesions?",
+    "answer": "cerebrum and lateral ventricles"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "Where is the abnormality located?",
+    "answer": "right convexity"
+  },
+  {
+    "image_name": "synpic42951.jpg",
+    "question": "Where is the pathology located?",
+    "answer": "right convexity"
+  },
+  {
+    "image_name": "synpic60831.jpg",
+    "question": "The image shows what abnormality?",
+    "answer": "abnormal hyperintensity in the right occipital lobe"
+  },
+  {
+    "image_name": "synpic60831.jpg",
+    "question": "What is abnormal in this image?",
+    "answer": "abnormal hyperintensity in the right occipital lobe"
+  },
+  {
+    "image_name": "synpic52932.jpg",
+    "question": "This image is concerning for what lung pathology?",
+    "answer": "pneumonia"
+  },
+  {
+    "image_name": "synpic52932.jpg",
+    "question": "What lung pathology is this image concerning for?",
+    "answer": "pneumonia"
+  },
+  {
+    "image_name": "synpic29048.jpg",
+    "question": "The soft-tissue density seen in this image contains what?",
+    "answer": "Air"
+  },
+  {
+    "image_name": "synpic29048.jpg",
+    "question": "What is filling the soft-tissue density seen in this image?",
+    "answer": "Air"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "From what do you see stranding?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic43609.jpg",
+    "question": "What is stranding in this image?",
+    "answer": "fat"
+  },
+  {
+    "image_name": "synpic60543.jpg",
+    "question": "The image above shows an abnormality where?",
+    "answer": "hyperintensity of the left basal ganglia"
+  },
+  {
+    "image_name": "synpic60543.jpg",
+    "question": "Where is the abnormality in this image?",
+    "answer": "hyperintensity of the left basal ganglia"
+  },
+  {
+    "image_name": "synpic18461.jpg",
+    "question": "What is happening to the right heart border?",
+    "answer": "Partial silhouetting"
+  },
+  {
+    "image_name": "synpic18461.jpg",
+    "question": "How would you describe the R heart border?",
+    "answer": "Partial silhouetting"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What is the small mass near the left kidney?",
+    "answer": "Splenule"
+  },
+  {
+    "image_name": "synpic20260.jpg",
+    "question": "What is located near the Left kidney",
+    "answer": "Splenule"
+  },
+  {
+    "image_name": "synpic34836.jpg",
+    "question": "What does the brighter outer ring of the lesion represent?",
+    "answer": "necrosis"
+  },
+  {
+    "image_name": "synpic34836.jpg",
+    "question": "What is indicated by the bright ring around the lesion?",
+    "answer": "necrosis"
+  },
+  {
+    "image_name": "synpic27601.jpg",
+    "question": "Where in relation to the mass is the left kidney located in this image?",
+    "answer": "posteriorly"
+  },
+  {
+    "image_name": "synpic27601.jpg",
+    "question": "Where is the mass located in relation to the left kidney?",
+    "answer": "posteriorly"
+  },
+  {
+    "image_name": "synpic19782.jpg",
+    "question": "On which side is air under the diaphragm?",
+    "answer": "Right"
+  },
+  {
+    "image_name": "synpic21604.jpg",
+    "question": "What other organs are present?",
+    "answer": "The lungs"
+  },
+  {
+    "image_name": "synpic17664.jpg",
+    "question": "Which lung are more markings present in?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic17664.jpg",
+    "question": "Where are the most lung markings?",
+    "answer": "Right lung"
+  },
+  {
+    "image_name": "synpic27402.jpg",
+    "question": "what test or procedure might reveal the diagnosis?",
+    "answer": "head/neck CT"
+  },
+  {
+    "image_name": "synpic27402.jpg",
+    "question": "What can be done to get to a diagnosis?",
+    "answer": "Biopsy"
+  },
+  {
+    "image_name": "synpic57935.jpg",
+    "question": "What is your differential diagnoses?",
+    "answer": "metastases, infection/abcess, glioblastoma"
+  },
+  {
+    "image_name": "synpic57935.jpg",
+    "question": "What are the possible diagnoses?",
+    "answer": "Toxoplasma, lymphoma, abscesses, other brain tumors"
+  },
+  {
+    "image_name": "synpic48749.jpg",
+    "question": "Which is more likely? Cancer or hemorrhage?",
+    "answer": "Hemorrhage"
+  },
+  {
+    "image_name": "synpic48749.jpg",
+    "question": "Is this cancer or hemorrhage?",
+    "answer": "Cancer"
+  },
+  {
+    "image_name": "synpic32136.jpg",
+    "question": "What is the most likely explanation for a enlarged kidney in this image?",
+    "answer": "ureteral obstruction"
+  },
+  {
+    "image_name": "synpic32136.jpg",
+    "question": "Why is the right kidney enlarged?",
+    "answer": "ureteral obstruction"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "what is the alternate name for lens-shaped\"\"",
+    "answer": "lentiform"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "What term is synonymous with lens-shaped?",
+    "answer": "Biconvex"
+  },
+  {
+    "image_name": "synpic47196.jpg",
+    "question": "What are the hypoattenuated round structures surrounding the veterbral column?",
+    "answer": "Psoas muscles"
+  },
+  {
+    "image_name": "synpic47196.jpg",
+    "question": "What are the structures near the vertebral column?",
+    "answer": "Psoas muscles"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "What is the most likely diagnosis?",
+    "answer": "epidural hematoma"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "What is going on with this patient?",
+    "answer": "sinusitis"
+  },
+  {
+    "image_name": "synpic42307.jpg",
+    "question": "Do you favor a viral process or parasitic process or other?",
+    "answer": "viral"
+  },
+  {
+    "image_name": "synpic42307.jpg",
+    "question": "Is this a viral or parasitic process?",
+    "answer": "Parasitic"
+  },
+  {
+    "image_name": "synpic16810.jpg",
+    "question": "How do you determine cardiomegaly?",
+    "answer": "If the heart diameter is greater than half the diameter of the thoracic cavity."
+  },
+  {
+    "image_name": "synpic16810.jpg",
+    "question": "How do you determine if the heart is enlarged?",
+    "answer": "C-T ratio"
+  },
+  {
+    "image_name": "synpic38630.jpg",
+    "question": "the internal gas and enhancing rim suggests what type of lesion?",
+    "answer": "abcess"
+  },
+  {
+    "image_name": "synpic38630.jpg",
+    "question": "What type of hepatic lesion has internal gas and enhancing rim?",
+    "answer": "abcess"
+  },
+  {
+    "image_name": "synpic28378.jpg",
+    "question": "What does tram-track\"-ing indictate?\"",
+    "answer": "Bronchiectasis"
+  },
+  {
+    "image_name": "synpic28378.jpg",
+    "question": "What is meant by tram-track?",
+    "answer": "Thickening of bronchi"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "How can you tell if contrast has been utilized?",
+    "answer": "CSF is brightly lit"
+  },
+  {
+    "image_name": "synpic43648.jpg",
+    "question": "What are the signs of contrast being used?",
+    "answer": "Aorta enhancement"
+  },
+  {
+    "image_name": "synpic38263.jpg",
+    "question": "The dark space in the central portion of the image represents what structure(s)?",
+    "answer": "lateral ventricles"
+  },
+  {
+    "image_name": "synpic38263.jpg",
+    "question": "What do the dark spaces in the center show?",
+    "answer": "lateral ventricles"
+  },
+  {
+    "image_name": "synpic51774.jpg",
+    "question": "What indicates a pleural effusion?",
+    "answer": "costophrenic angle blunting"
+  },
+  {
+    "image_name": "synpic51774.jpg",
+    "question": "What is a pleural effusion",
+    "answer": "Fluid in the pleural space"
+  },
+  {
+    "image_name": "synpic32136.jpg",
+    "question": "How can you confirm contrast was used?",
+    "answer": "aorta is bright"
+  },
+  {
+    "image_name": "synpic32136.jpg",
+    "question": "How do you know if contrast was used?",
+    "answer": "Enhancement of vessels"
+  },
+  {
+    "image_name": "synpic51774.jpg",
+    "question": "Which way is the trachea deviating in this image?",
+    "answer": "Left"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "what shape would the lesion be if this were a subdural hematoma?",
+    "answer": "crescent"
+  },
+  {
+    "image_name": "synpic50848.jpg",
+    "question": "What shape is the lesion in a subdural hematoma?",
+    "answer": "Concave"
+  },
+  {
+    "image_name": "synpic46539.jpg",
+    "question": "what is the pathology?",
+    "answer": "hydropneumothorax"
+  },
+  {
+    "image_name": "synpic46539.jpg",
+    "question": "What is abnormal in this image?",
+    "answer": "hydropneumothorax"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What vascular territory is the lesion?",
+    "answer": "Right MCA"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "In what vascular territory is the lesion located?",
+    "answer": "Right MCA"
+  },
+  {
+    "image_name": "synpic22037.jpg",
+    "question": "What is the foreign body?",
+    "answer": "a catheter"
+  },
+  {
+    "image_name": "synpic22037.jpg",
+    "question": "Please identify the foreign body.",
+    "answer": "a catheter"
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What neuro deficits will are predicted by image location?",
+    "answer": "quadrantopia, aphasia, memory deficit, etc."
+  },
+  {
+    "image_name": "synpic51383.jpg",
+    "question": "What deficits are suggested by the location of the lesion?",
+    "answer": "Motor weakness, sensory deficits, and left neglect"
+  },
+  {
+    "image_name": "synpic44995.jpg",
+    "question": "what is the most likely etiology",
+    "answer": "viral/inflammatory"
+  },
+  {
+    "image_name": "synpic44995.jpg",
+    "question": "What is most likely causing these lesions?",
+    "answer": "CVA"
+  },
+  {
+    "image_name": "synpic41325.jpg",
+    "question": "where is the pathology?",
+    "answer": "In the cortex and basal ganglia bilaterally"
+  },
+  {
+    "image_name": "synpic41325.jpg",
+    "question": "Where is the pathology located?",
+    "answer": "In the cortex and basal ganglia bilaterally"
+  },
+  {
+    "image_name": "synpic31259.jpg",
+    "question": "what is the pathology",
+    "answer": "left lobe mass 1.5 x 1.8 cm"
+  },
+  {
+    "image_name": "synpic31259.jpg",
+    "question": "What is abnormal in this image?",
+    "answer": "left lobe mass 1.5 x 1.8 cm"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "How can you tell the mass is hemorrhagic and pushing the optic chiasm?",
+    "answer": "Not sure"
+  },
+  {
+    "image_name": "synpic59131.jpg",
+    "question": "Where is the mass?",
+    "answer": "Pituitary fossa"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "What is the hypodensity on the posteriolateral edge of the left kidney?",
+    "answer": "nephroblastomatosis"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "What is seen in the posterolateral L kidney?",
+    "answer": "nephroblastomatosis"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "How can you tell that one side is small Bowen and the other side is large bowel?",
+    "answer": "Location of the contrast?"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "How do you know that small bowel and colon are on different sides of midline?",
+    "answer": "Haustra"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "What are the white nodules on bilateral kidneys?",
+    "answer": "contrast"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "What are the hyperintensities seen in the bilateral kidneys?",
+    "answer": "contrast"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "What symptoms would this patient present with?",
+    "answer": "RUQ pain, jaundice,weight loss?"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "What did the patient likely complain of?",
+    "answer": "abdominal pain"
+  },
+  {
+    "image_name": "synpic19114.jpg",
+    "question": "What are the densities in both mid-lung fields?",
+    "answer": "pleural plaques"
+  },
+  {
+    "image_name": "synpic19114.jpg",
+    "question": "What do the densities in the lung fields represent?",
+    "answer": "pleural plaques"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "what are defining Radiological features of large bowel?",
+    "answer": "Air?"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "How do you distinguish large bowel?",
+    "answer": "haustra"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "How can you tell if it\ufffds the common bile duct vs the cystic duct?",
+    "answer": "Trace the gallbladder emptying?"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "What differentiates the common bile duct and cystic duct?",
+    "answer": "cystic duct is more tortuous"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "What are common causes of cystic and cbd obstruction?",
+    "answer": "Tumors, gallstones"
+  },
+  {
+    "image_name": "synpic28180.jpg",
+    "question": "What can cause these findings on imaging?",
+    "answer": "Stones, cancer, infection, anatomic variants"
+  },
+  {
+    "image_name": "synpic17848.jpg",
+    "question": "What lung are the pulmonary nodules in?",
+    "answer": "Bilateral lungs"
+  },
+  {
+    "image_name": "synpic17848.jpg",
+    "question": "Where are the nodules located?",
+    "answer": "Bilateral lungs"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "What are defining radiological features of the small bowel?",
+    "answer": "Not sure"
+  },
+  {
+    "image_name": "synpic22156.jpg",
+    "question": "How do you identify small bowel?",
+    "answer": "plicae circulares"
+  },
+  {
+    "image_name": "synpic35191.jpg",
+    "question": "Why does less enhancement mean less acute?",
+    "answer": "More acute means more inflammation-leading to enhancement?"
+  },
+  {
+    "image_name": "synpic35191.jpg",
+    "question": "What makes a lesion less acute?",
+    "answer": "Less enhancement"
+  },
+  {
+    "image_name": "synpic49862.jpg",
+    "question": "How do you know this is a T2 weighted image?",
+    "answer": "CSF is white."
+  },
+  {
+    "image_name": "synpic49862.jpg",
+    "question": "What tells you that the image is T2?",
+    "answer": "White versus grey matter brightness"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "What are the lesions indicative of?",
+    "answer": "Adenopathy"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "What are the lesions consistent with?",
+    "answer": "Infection"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "Where are the lesions located?",
+    "answer": "Paratracheal area"
+  },
+  {
+    "image_name": "synpic17693.jpg",
+    "question": "Where are the lesions?",
+    "answer": "Paratracheal area"
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "How common is bilateral Wilms?",
+    "answer": "Not sure."
+  },
+  {
+    "image_name": "synpic19853.jpg",
+    "question": "About how often do you see bilateral Wilms tumor?",
+    "answer": "5%"
+  },
+  {
+    "image_name": "synpic31394.jpg",
+    "question": "How would you describe the pathology seen in the above image?",
+    "answer": "Rounded, well-defined pulmonary nodules varying in size and pattern"
+  },
+  {
+    "image_name": "synpic31394.jpg",
+    "question": "What is the pathology seen in this image?",
+    "answer": "pulmonary nodules"
+  },
+  {
+    "image_name": "synpic17145.jpg",
+    "question": "What is the pathology seen above?",
+    "answer": "bilateral pleural effusion"
+  },
+  {
+    "image_name": "synpic17145.jpg",
+    "question": "What abnormality is seen in this image?",
+    "answer": "bilateral pleural effusion"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "What brain structures would be affected by the lesion in the right frontal area of the brain?",
+    "answer": "basal ganglia (caudate and putamen)"
+  },
+  {
+    "image_name": "synpic59536.jpg",
+    "question": "Which brain structures could be affected by the lesion located in the right frontal brain area?",
+    "answer": "basal ganglia (caudate and putamen)"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "Where do we see multiple infarcts in the above image?",
+    "answer": "Cerebellum"
+  },
+  {
+    "image_name": "synpic56422.jpg",
+    "question": "Location of the multiple infarcts?",
+    "answer": "Cerebellum"
+  },
+  {
+    "image_name": "synpic27277.jpg",
+    "question": "What organ system is shown in the above image?",
+    "answer": "cardiopulmonary"
+  },
+  {
+    "image_name": "synpic27277.jpg",
+    "question": "The image shows what organ system?",
+    "answer": "cardiopulmonary"
+  },
+  {
+    "image_name": "synpic27277.jpg",
+    "question": "In what position was the patient in when this image was taken?",
+    "answer": "Semi-upright position"
+  },
+  {
+    "image_name": "synpic27277.jpg",
+    "question": "What position is the patient in for this image?",
+    "answer": "Semi-upright position"
+  },
+  {
+    "image_name": "synpic17675.jpg",
+    "question": "What indicates there is no pleural effusion present?",
+    "answer": "Sharp costophrenic angles"
+  },
+  {
+    "image_name": "synpic17675.jpg",
+    "question": "What sign determines the absence of a pleural effusion?",
+    "answer": "Sharp costophrenic angles"
+  },
+  {
+    "image_name": "synpic45544.jpg",
+    "question": "What lobe is the infarct in?",
+    "answer": "Right parietal"
+  },
+  {
+    "image_name": "synpic45544.jpg",
+    "question": "Which lobe is infarcted",
+    "answer": "Right parietal"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What is the organ pictured superior to the aorta?",
+    "answer": "horsehoe kidney"
+  },
+  {
+    "image_name": "synpic28277.jpg",
+    "question": "What is above the aorta in this image?",
+    "answer": "horsehoe kidney"
+  },
+  {
+    "image_name": "synpic56116.jpg",
+    "question": "Where in the cortex are the lesions present?",
+    "answer": "Diffuse"
+  },
+  {
+    "image_name": "synpic56116.jpg",
+    "question": "Which cerebral cortex contains the lesion?",
+    "answer": "Diffuse"
+  },
+  {
+    "image_name": "synpic47974.jpg",
+    "question": "Why is there air seen in the bottom of the image?",
+    "answer": "Posterior lung seen in the image section"
+  },
+  {
+    "image_name": "synpic47974.jpg",
+    "question": "Why is free air present in the image?",
+    "answer": "Pneumothorax"
+  },
+  {
+    "image_name": "synpic26413.jpg",
+    "question": "What indicates there is a consolidation in the right lung?",
+    "answer": "blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border"
+  },
+  {
+    "image_name": "synpic26413.jpg",
+    "question": "What is the observed sign of pulmonary consolidation on the right side?",
+    "answer": "blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border"
+  },
+  {
+    "image_name": "synpic18250.jpg",
+    "question": "Name one abnormality in the radiograph.",
+    "answer": "Increased opacity in the left retrocardiac region"
+  },
+  {
+    "image_name": "synpic18250.jpg",
+    "question": "What is one abnormality that can be seen in the image?",
+    "answer": "Increased opacity in the left retrocardiac region"
+  },
+  {
+    "image_name": "synpic32081.jpg",
+    "question": "What is the abnormality?",
+    "answer": "Right paratracheal mass lesion"
+  },
+  {
+    "image_name": "synpic32081.jpg",
+    "question": "What is wrong in this image?",
+    "answer": "Right paratracheal mass lesion"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "What abnormal findings are present in this image?",
+    "answer": "ring-enhancing lesion"
+  },
+  {
+    "image_name": "synpic51212.jpg",
+    "question": "What is the lesion in this image?",
+    "answer": "ring-enhancing lesion"
+  },
+  {
+    "image_name": "synpic28987.jpg",
+    "question": "What is wrong with the aortic area?",
+    "answer": "It is enlarged with prominence of the aortic knob"
+  },
+  {
+    "image_name": "synpic28987.jpg",
+    "question": "What pathology is shown in the aorta?",
+    "answer": "It is enlarged with prominence of the aortic knob"
+  },
+  {
+    "image_name": "synpic22794.jpg",
+    "question": "How would you describe the mass on the left kidney?",
+    "answer": "Well-circumscribed"
+  },
+  {
+    "image_name": "synpic22794.jpg",
+    "question": "What is the left kidney mass?",
+    "answer": "exophytic cyst"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "What is the appearance of the liver?",
+    "answer": "Shrunken and nodular"
+  },
+  {
+    "image_name": "synpic23648.jpg",
+    "question": "how would you describe the liver?",
+    "answer": "Shrunken and nodular"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "What does the hyperlucency indicate?",
+    "answer": "Infarcts"
+  },
+  {
+    "image_name": "synpic56344.jpg",
+    "question": "What pathology does the hyperlucency represent?",
+    "answer": "embolus"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "Where are the hyperintensities located?",
+    "answer": "Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe"
+  },
+  {
+    "image_name": "synpic27142.jpg",
+    "question": "What is the location of the hyperintensitites?",
+    "answer": "Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe"
+  },
+  {
+    "image_name": "synpic32981.jpg",
+    "question": "What is the shape of the liver mass?",
+    "answer": "infiltrative"
+  },
+  {
+    "image_name": "synpic53228.jpg",
+    "question": "How many ribs are superimposed on the lung fields?",
+    "answer": 12
+  },
+  {
+    "image_name": "synpic53228.jpg",
+    "question": "How many ribs are present in vertical order on this chest radiograph",
+    "answer": 12
+  },
+  {
+    "image_name": "synpic31232.jpg",
+    "question": "What is the hypodensity located inside the vertebrae?",
+    "answer": "Nucleus Pulposus"
+  },
+  {
+    "image_name": "synpic31232.jpg",
+    "question": "What is the hypo-dense area seen in the vertebrae?",
+    "answer": "Nucleus Pulposus"
+  }
+]
