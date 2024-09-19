@@ -24,7 +24,7 @@ def get_parser():
     parser.add_argument('--max_retries', type=int, default=5)
     parser.add_argument('--v_device', type=int, default=0)
     parser.add_argument('--l_device', type=int, default=0)
-    parser.add_argument('--ff_print', type=bool, default=False)
+    parser.add_argument('--ff_print', action="store_true", default=False)
     args = parser.parse_args()
 
     return args

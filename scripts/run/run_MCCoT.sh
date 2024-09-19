@@ -12,21 +12,24 @@ export Qwen2_API_BASE=
 
 
 python run.py --method MCCoT \
-      --language_model_name Qwen2 \
+      --language_model_name GPT \
       --visual_model_name LLava \
       --dataset_name Slake \
-      --slake_path /data/M4_data/Slake1.0
+      --slake_path /your_path_to_slake_dir \
+#      --ff_print
 
 
 python run.py --method MCCoT \
-      --language_model_name Qwen2 \
+      --language_model_name GPT \
       --visual_model_name LLava \
       --dataset_name PATH-VQA \
-      --path_vqa_path /data/M4_data/PATH-VQA
+      --path_vqa_path /your_path_to_path-vqa_dir \
+#      --ff_print
 
 
 python run.py --method MCCoT \
-      --language_model_name Qwen2 \
+      --language_model_name GPT \
       --visual_model_name LLava \
       --dataset_name VQA-RAD \
-      --vqa_rad_path /data/M4_data/VQA-RAD
+      --vqa_rad_path /your_path_to_vqa-rad_dir \
+#      --ff_print

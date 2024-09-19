@@ -7,13 +7,13 @@ python eval.py \
       --method MCCoT IICoT \
       --dataset_name PATH-VQA VQA-RAD Slake \
       --v_model LLava\
-      --l_model ChatGLM Qwen2 Deepseek \
+      --l_model ChatGLM Qwen2 Deepseek
 
 python eval.py \
       --mode acc \
-      --method MCCoT IICoT \
+      --method MMCoT IICoT \
       --dataset_name PATH-VQA VQA-RAD Slake \
-      --v_model LLava QwenVL-Max \
+      --v_model LLava QwenVL \
       --l_model GPT \
       --parallel \
       --max_workers 8

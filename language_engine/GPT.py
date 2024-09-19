@@ -8,7 +8,7 @@ import time
 
 @register_class(alias="GPT")
 class GPTEngine(BaseLanguageEngine):
-    def __init__(self, model_name="gpt-3.5-turbo", temperature=0.0, seed=127):
+    def __init__(self, model_name="gpt-3.5-turbo", temperature=0.0, seed=127, device=0):
         openai_api_key = os.environ.get('OPENAI_API_KEY')
         assert openai_api_key is not None
         openai_api_base = os.environ.get('OPENAI_API_BASE')

@@ -1,6 +1,5 @@
-echo 'llava'
 python eval_show.py \
-      --v_model LLava QwenVL \
-      --l_model GPT Qwen2 \
-      --method DDCoT IICoT MCCoT \
+      --v_model LLava \
+      --l_model GPT \
+      --method DDCoT IICoT MMCoT \
       --dataset_name PATH-VQA VQA-RAD Slake

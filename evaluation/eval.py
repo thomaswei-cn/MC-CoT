@@ -120,7 +120,7 @@ def get_args():
     parser.add_argument('--method', nargs='+', type=str, default=['MCCoT'])
     parser.add_argument('--dataset_name', type=str, nargs='+', default=['Slake', 'PATH-VQA', 'VQA-RAD'],
                         choices=['Slake', 'PATH-VQA', 'VQA-RAD'])
-    parser.add_argument('--v_model', nargs='+', choices=['QwenVL', 'QwenVL-Max', 'DeepseekVL', 'LLava'], default=['LLava'])
+    parser.add_argument('--v_model', nargs='+', choices=['QwenVL', 'LLava'], default=['LLava'])
     parser.add_argument('--l_model', nargs='+', choices=['GPT', 'Deepseek', 'ChatGLM', 'Qwen2'], default=['GPT'])
     parser.add_argument('--openai_api_key', type=str, default=None)
     parser.add_argument('--openai_api_base', type=str, default=None)
