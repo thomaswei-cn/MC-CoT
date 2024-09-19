@@ -17,11 +17,11 @@ pip install -r requirements.txt
 ```
 # Dataset Preparation
 ## PATH-VQA
-Please download PATH-VQA from the official website, unzip it, and move the `PATH-VQA_test_open.json` in the `./dataset/PATH-VQA/` folder into the unzipped folder.
+Please download PATH-VQA from its official website, unzip it, and move the `PATH-VQA_test_open.json` in the `./dataset/PATH-VQA/` folder into the unzipped folder.
 ## SLAKE
-Please download SLAKE from the official website, unzip it, and move the `Slake_test_open.json` in the `./dataset/Slake/` folder into the unzipped folder.
+Please download SLAKE from its official website, unzip it, and move the `Slake_test_open.json` in the `./dataset/Slake/` folder into the unzipped folder.
 ## VQA-RAD
-Please download VQA-RAD from the official website, unzip it, and move the `VQA-RAD_test_open.json` in the `./dataset/VQA-RAD/` folder into the unzipped folder.
+Please download VQA-RAD from its official website, unzip it, and move the `VQA-RAD_test_open.json` in the `./dataset/VQA-RAD/` folder into the unzipped folder.
 
 **Note:** In this repository, `your_path_to_{Dataset}_dir` refers to the path to the unzipped folder.
 # Implementation
