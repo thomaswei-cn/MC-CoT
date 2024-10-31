@@ -1,0 +1,102 @@
+[
+    {
+        "image_name": "train_0422",
+        "question": "Where are liver stem cells (oval cells) located?",
+        "answer": "in the canals of hering"
+    },
+    {
+        "image_name": "train_0986",
+        "question": "What shows dissolution of the tissue?",
+        "answer": "an infarct in the brain"
+    },
+    {
+        "image_name": "train_0929",
+        "question": "What represent foci of fat necrosis with calcium soap formation at sites of lipid breakdown in the mesentery?",
+        "answer": "the areas of white chalky deposits"
+    },
+    {
+        "image_name": "train_0218",
+        "question": "What is ischemia?",
+        "answer": "the cause of reversible injury"
+    },
+    {
+        "image_name": "train_0026",
+        "question": "What is caused by aging and reduced blood supply?",
+        "answer": "atrophy of the brain"
+    },
+    {
+        "image_name": "train_0227",
+        "question": "What is called the Prussian blue reaction?",
+        "answer": "a special staining process"
+    },
+    {
+        "image_name": "train_0147",
+        "question": "What show an inflammatory reaction in the myocardium after ischemic necrosis infarction?",
+        "answer": "the photomicrographs"
+    },
+    {
+        "image_name": "train_0157",
+        "question": "What show an inflammatory reaction in the myocardium after ischemic necrosis infarction?",
+        "answer": "the photomicrographs"
+    },
+    {
+        "image_name": "train_0813",
+        "question": "Two have lost whose nuclei ?",
+        "answer": "their"
+    },
+    {
+        "image_name": "train_0229",
+        "question": "What stained red and cytoplasm green?",
+        "answer": "healthy neutrophils with nuclei"
+    },
+    {
+        "image_name": "train_0220",
+        "question": "What is separated from the dermis by a focal collection of serous effusion?",
+        "answer": "the epidermis"
+    },
+    {
+        "image_name": "train_0352",
+        "question": "When are the majority of tissue macrophages derived from hematopoietic precursors?",
+        "answer": "during inflammatory reactions"
+    },
+    {
+        "image_name": "train_0371",
+        "question": "When are the majority of tissue macrophages derived from hematopoietic precursors?",
+        "answer": "during inflammatory reactions"
+    },
+    {
+        "image_name": "train_0300",
+        "question": "When are the majority of tissue macrophages derived from hematopoietic precursors?",
+        "answer": "during inflammatory reactions"
+    },
+    {
+        "image_name": "train_0473",
+        "question": "What is stained blue by the trichrome stain?",
+        "answer": "collagen"
+    },
+    {
+        "image_name": "train_0665",
+        "question": "What is the major initiator of coagulation?",
+        "answer": "tissue factor"
+    },
+    {
+        "image_name": "train_0685",
+        "question": "What consists of a protease, a substrate, and a reaction accelerator assembled on a platelet phospholipid surface?",
+        "answer": "the initial reaction complex"
+    },
+    {
+        "image_name": "train_0598",
+        "question": "What is stained for elastic tissue?",
+        "answer": "a thrombosed artery"
+    },
+    {
+        "image_name": "train_0533",
+        "question": "What is lodged in a pulmonary artery branch?",
+        "answer": "embolus"
+    },
+    {
+        "image_name": "train_0751",
+        "question": "What is replaced by a large fibrotic scar?",
+        "answer": "remote kidney infarct"
+    }
+]

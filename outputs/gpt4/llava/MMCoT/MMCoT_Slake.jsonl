@@ -1,0 +1,50 @@
+{"id": 108, "question": "What is the organ on the lower right corner of the body in this image?", "answer": "Spleen", "pred": "A"}
+{"id": 85, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "pred": "A"}
+{"id": 455, "question": "Which part of the body does this image belong to?", "answer": "Head", "pred": "A"}
+{"id": 468, "question": "What is the mr weighting in this image?", "answer": "T1", "pred": "A"}
+{"id": 446, "question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "pred": "A"}
+{"id": 562, "question": "What is the function of the organ on the center of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "pred": "A"}
+{"id": 271, "question": "Which organs/organ is part of the respiratory system in this image?", "answer": "Lung", "pred": "A"}
+{"id": 377, "question": "Where is the heart in this image?", "answer": "Center", "pred": "A"}
+{"id": 40, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "A"}
+{"id": 100, "question": "What is the organ on the left side of this image?", "answer": "Right Lung", "pred": "A"}
+{"id": 227, "question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "pred": "A"}
+{"id": 519, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "A"}
+{"id": 587, "question": "In what plane is this image scanned?", "answer": "Transverse Plane", "pred": "A"}
+{"id": 324, "question": "What scanning plane does this image belong to?", "answer": "Coronal Plane", "pred": "A"}
+{"id": 358, "question": "Which organs appear in pairs?", "answer": "Lung", "pred": "A"}
+{"id": 598, "question": "Which organs/organ in the picture belong to the digestive system?", "answer": "Rectum", "pred": "A"}
+{"id": 585, "question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "pred": "A"}
+{"id": 223, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "A"}
+{"id": 565, "question": "Which organ system is imaged?", "answer": "Abdomen", "pred": "A"}
+{"id": 340, "question": "How many existing heart in this image?", "answer": "1", "pred": "A"}
+{"id": 635, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "A"}
+{"id": 339, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "A"}
+{"id": 463, "question": "What kind of symptoms will the disease on the upper right lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "pred": "A"}
+{"id": 175, "question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "pred": "A"}
+{"id": 432, "question": "What is the main cause of the disease on the right lobe of brain in this picture?", "answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors", "pred": "A"}
+{"id": 172, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "A"}
+{"id": 106, "question": "How many kidneys in this image?", "answer": "0", "pred": "A"}
+{"id": 185, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "A"}
+{"id": 30, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Lower Right", "pred": "A"}
+{"id": 386, "question": "Which organs appear in pairs?", "answer": "Temporal Lobe", "pred": "A"}
+{"id": 394, "question": "What is the organ system visualized?", "answer": "Head", "pred": "A"}
+{"id": 322, "question": "How to prevent the occurrence of the disease on the left lobe of lung in this image?", "answer": "Quit smoking, enhance physical fitness", "pred": "A"}
+{"id": 450, "question": "What modality is shown in this image?", "answer": "MRI", "pred": "A"}
+{"id": 352, "question": "What is the effect of the center organ in this picture?", "answer": "Promote blood flow", "pred": "A"}
+{"id": 83, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "A"}
+{"id": 356, "question": "Which side of lung is abnormal in this image?", "answer": "Left", "pred": "D"}
+{"id": 43, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "A"}
+{"id": 171, "question": "What modality is used to take this image?", "answer": "CT", "pred": "A"}
+{"id": 166, "question": "Where is the liver?", "answer": "Left", "pred": "A"}
+{"id": 483, "question": "How many kinds of abnormalities are there in this image?", "answer": "2", "pred": "A"}
+{"id": 526, "question": "Where are the abnormalities in this image?", "answer": "Lower Left Lobe", "pred": "A"}
+{"id": 454, "question": "What type of medical image is this?", "answer": "MRI", "pred": "A"}
+{"id": 304, "question": "Where is the abnormality in this image?", "answer": "Lower Left Lung", "pred": "D"}
+{"id": 626, "question": "What is the main organ in the image?", "answer": "Brain", "pred": "A"}
+{"id": 34, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "A"}
+{"id": 420, "question": "What role does the black hollow tissue play in the human body?", "answer": "Gas delivery", "pred": "A"}
+{"id": 319, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "A"}
+{"id": 362, "question": "How many existing lungs in this image?", "answer": "2", "pred": "A"}
+{"id": 189, "question": "What modality is used to take this image?", "answer": "CT", "pred": "A"}
+{"id": 329, "question": "What color does the right lung show in the picture?", "answer": "Black", "pred": "A"}

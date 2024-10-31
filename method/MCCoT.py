@@ -3,6 +3,8 @@ from utils.output_utils import format_json_out_put, filter_finished, ensure_dir
 from tqdm import tqdm
 from utils.register import register_class, registry
 from .base_method import BaseMethod
+import random
+random.seed(1234)
 
 
 def parse_domain(dataset_name):
@@ -141,13 +143,18 @@ class MCCoT(BaseMethod):
         self.max_retries = args.max_retries
         self.v_engine = registry.get_class(args.visual_model_name)(device=args.v_device)
         self.l_engine = registry.get_class(args.language_model_name)(device=args.l_device)
-
+        self.shuffle = args.shuffle
+        self.truncation_50 = args.truncation_50
         self.ff_print = args.ff_print
 
     def run(self):
         for round_count in range(self.max_retries):
             print("Start {} round of answering questions.".format(round_count + 1))
             todo_list = filter_finished(len(self.dataset), self.output_file_path)
+            if self.shuffle:
+                random.shuffle(todo_list)
+            if self.truncation_50:
+                todo_list = todo_list[:50]
             if not todo_list:
                 print("All questions have been answered.")
                 return

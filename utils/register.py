@@ -10,6 +10,9 @@ class Registry:
     def get_class(self, alias):
         return self._registry.get(alias)
 
+    def get_all_keys(self):
+        return self._registry.keys()
+
 
 # 使用装饰器来注册类，并且可以指定别名
 registry = Registry()

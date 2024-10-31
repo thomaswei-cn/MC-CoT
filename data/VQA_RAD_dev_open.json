@@ -1,0 +1,102 @@
+[
+    {
+        "image_name": "synpic49914.jpg",
+        "question": "What is finding in the right lung?",
+        "answer": "Volume loss"
+    },
+    {
+        "image_name": "synpic28987.jpg",
+        "question": "What is wrong with the aortic area?",
+        "answer": "It is enlarged with prominence of the aortic knob"
+    },
+    {
+        "image_name": "synpic40096.jpg",
+        "question": "What is on the differential?",
+        "answer": "Chronic sinusitis vs. hemorrhage"
+    },
+    {
+        "image_name": "synpic45162.jpg",
+        "question": "How many gallstones are identified?",
+        "answer": 4
+    },
+    {
+        "image_name": "synpic23648.jpg",
+        "question": "Which organ is abnormally large?",
+        "answer": "Spleen"
+    },
+    {
+        "image_name": "synpic16810.jpg",
+        "question": "How do you determine if the heart is enlarged?",
+        "answer": "C-T ratio"
+    },
+    {
+        "image_name": "synpic19477.jpg",
+        "question": "Where is the lung lesion located?",
+        "answer": "Right lung"
+    },
+    {
+        "image_name": "synpic31400.jpg",
+        "question": "where is the cavitary lesion?",
+        "answer": "Right upper lobe"
+    },
+    {
+        "image_name": "synpic57368.jpg",
+        "question": "What hemisphere are the lesions located in?",
+        "answer": "Bilateral"
+    },
+    {
+        "image_name": "synpic45914.jpg",
+        "question": "Where is the bleed?",
+        "answer": "Subarachnoid"
+    },
+    {
+        "image_name": "synpic18651.jpg",
+        "question": "what is the pathology?",
+        "answer": "cardiomegaly with pulmonary edema"
+    },
+    {
+        "image_name": "synpic20626.jpg",
+        "question": "Where is the abnormality in this image?",
+        "answer": "Left cerebellum"
+    },
+    {
+        "image_name": "synpic31259.jpg",
+        "question": "This radiograph contains what foreign body?",
+        "answer": "sternotomy wires and surgical clips"
+    },
+    {
+        "image_name": "synpic17693.jpg",
+        "question": "How is the image oriented?",
+        "answer": "PA"
+    },
+    {
+        "image_name": "synpic100228.jpg",
+        "question": "Where are the three circular opacities located?",
+        "answer": "Stomach"
+    },
+    {
+        "image_name": "synpic41667.jpg",
+        "question": "What structure is superimposed on the left hemidiaphragm?",
+        "answer": "Sigmoid Flexture of the Colon"
+    },
+    {
+        "image_name": "synpic17848.jpg",
+        "question": "What lung are the pulmonary nodules in?",
+        "answer": "Bilateral lungs"
+    },
+    {
+        "image_name": "synpic53228.jpg",
+        "question": "How many ribs are superimposed on the lung fields?",
+        "answer": 12
+    },
+    {
+        "image_name": "synpic57813.jpg",
+        "question": "Where are the infarcts located?",
+        "answer": "Right Cerebellum"
+    },
+    {
+        "image_name": "synpic31256.jpg",
+        "question": "What imaging modality is seen?",
+        "answer": "X-ray"
+    }
+]

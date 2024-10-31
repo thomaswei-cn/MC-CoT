@@ -1,0 +1,102 @@
+[
+    {
+        "image_name": "xmlab15/source.jpg",
+        "question": "What is the mr weighting in this image?",
+        "answer": "T2"
+    },
+    {
+        "image_name": "xmlab57/source.jpg",
+        "question": "Where is/are the abnormality located?",
+        "answer": "Upper Right"
+    },
+    {
+        "image_name": "xmlab526/source.jpg",
+        "question": "What is the scanning plane of this image?",
+        "answer": "Transverse Plane"
+    },
+    {
+        "image_name": "xmlab51/source.jpg",
+        "question": "Where is/are the abnormality located?",
+        "answer": "Lower Left"
+    },
+    {
+        "image_name": "xmlab2/source.jpg",
+        "question": "What diseases are included in the picture?",
+        "answer": "None"
+    },
+    {
+        "image_name": "xmlab125/source.jpg",
+        "question": "Which part of the body does this image belong to?",
+        "answer": "Chest"
+    },
+    {
+        "image_name": "xmlab134/source.jpg",
+        "question": "What is the largest organ in the picture?",
+        "answer": "Lung"
+    },
+    {
+        "image_name": "xmlab301/source.jpg",
+        "question": "Which organ system is imaged?",
+        "answer": "Chest"
+    },
+    {
+        "image_name": "xmlab268/source.jpg",
+        "question": "Where is/are the abnormality located?",
+        "answer": "Liver"
+    },
+    {
+        "image_name": "xmlab381/source.jpg",
+        "question": "Which organs/organ in the picture belong to the circulatory system?",
+        "answer": "Heart"
+    },
+    {
+        "image_name": "xmlab280/source.jpg",
+        "question": "What is the scanning plane of this image?",
+        "answer": "Transverse  Plane"
+    },
+    {
+        "image_name": "xmlab319/source.jpg",
+        "question": "What disease is/are shown on the right of lung?",
+        "answer": "Pulmonary Mass"
+    },
+    {
+        "image_name": "xmlab621/source.jpg",
+        "question": "Which organs/organ in the picture belong to the digestive system?",
+        "answer": "Small Bowel,Rectum,Colon"
+    },
+    {
+        "image_name": "xmlab615/source.jpg",
+        "question": "Which organs/organ in the picture belong to the urinary system?",
+        "answer": "Bladder"
+    },
+    {
+        "image_name": "xmlab326/source.jpg",
+        "question": "What is the main organ in the image?",
+        "answer": "Lung"
+    },
+    {
+        "image_name": "xmlab365/source.jpg",
+        "question": "What is the effect of the center organ in this picture?",
+        "answer": "Promote blood flow"
+    },
+    {
+        "image_name": "xmlab167/source.jpg",
+        "question": "Where is/are the abnormality located?",
+        "answer": "Left Lung, Right"
+    },
+    {
+        "image_name": "xmlab327/source.jpg",
+        "question": "Where is the pleural effusion in this image?",
+        "answer": "Right Chest"
+    },
+    {
+        "image_name": "xmlab317/source.jpg",
+        "question": "How many lungs are shown in this image?",
+        "answer": "2"
+    },
+    {
+        "image_name": "xmlab481/source.jpg",
+        "question": "How to treat the most severe disease in this image?",
+        "answer": "Medical treatment, supportive treatment, surgical treatment"
+    }
+]

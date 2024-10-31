@@ -1,64 +1,52 @@
 import os
-import openai
-from openai import OpenAI
 from utils.register import register_class
 from .base_language_engine import BaseLanguageEngine
 import time
+import requests
 
-
+base_url = "http://preview-general-llm.api.ai.srv/api/%s/weilai8"
 @register_class(alias="Engine.GPT")
 class GPTEngine(BaseLanguageEngine):
-    def __init__(self, model_name="gpt-3.5-turbo", temperature=0.0, seed=127):
-        openai_api_key = os.environ.get('OPENAI_API_KEY')
-        assert openai_api_key is not None
-        openai_api_base = os.environ.get('OPENAI_API_BASE')
-
-        self.model_name = model_name
+    def __init__(self, model_name="gpt-4-32k-0314", temperature=0.0, seed=127, device=None):
+        self.api_base = base_url % model_name
         self.temperature = temperature
-        self.seed = seed
-
-        if openai_api_base is not None:
-            self.client = OpenAI(
-                api_key=openai_api_key,
-                base_url=openai_api_base
-            )
-        else:
-            self.client = OpenAI(
-                api_key=openai_api_key,
-            )
+        self.model_name = model_name
 
     def get_response(self, user_input, system_input=""):
-        response = None
-        model_name = self.model_name
         i = 0
         messages = [{"role": "system", "content": system_input},
                     {"role": "user", "content": user_input}]
-        while i < 5:
+        headers = {
+            'Content-Type': 'application/json'
+        }
+        data = {
+            "messages": messages,
+            "temperature": self.temperature,
+            # "response_format": "json_object"
+        }
+        res_content = None
+        res_usage = None
+        while True:
             try:
-                response = self.client.chat.completions.create(
-                    model=model_name,
-                    messages=messages,
-                    temperature=self.temperature,
-                    seed=self.seed
-                )
-                if response is not None:
+                res = requests.post(self.api_base, json=data)
+                # print(f"Request API successfully, response: {res.json()}")
+                res_json = res.json()
+                if res_json["status"] != 200:
+                    # 经常出现token rate limit, 重试
+                    print(f"Bad Request,, retrying...")
+                    time.sleep(1.3)
+                    continue
+
+                else:
+                    res_content = res_json['response']
+                    res_usage = res_json['usage']
                     break
-            except openai.BadRequestError:
-                if model_name == "gpt-3.5-turbo":
-                    model_name = "gpt-3.5-turbo-16k"
-                i += 1
-            except openai.RateLimitError:
-                time.sleep(10)
-                i += 1
-            except Exception as e:
-                print(e)
-                i += 1
-                time.sleep(5)
-                continue
-            else:
-                i += 1
-        if response is not None:
-            return response.choices[0].message.content
-        else:
-            # print("Failed to get response from GPT, messages: ", messages)
-            return None
+            except:
+                print(f"Error: res: {res}")
+                break
+            # else:
+            #     break
+            # break
+
+        # print(f"Request API successfully, response: {res_content}")
+        return res_content

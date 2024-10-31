@@ -1,0 +1,50 @@
+{"id": 108, "question": "What is the organ on the lower right corner of the body in this image?", "answer": "Spleen", "pred": "The organ on the lower right corner of the body in this image is the liver."}
+{"id": 85, "question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "pred": "Chest"}
+{"id": 455, "question": "Which part of the body does this image belong to?", "answer": "Head", "pred": "Brain"}
+{"id": 468, "question": "What is the mr weighting in this image?", "answer": "T1", "pred": "1.0"}
+{"id": 446, "question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "pred": "The scanning plane of this image is a cross-sectional view of the brain."}
+{"id": 562, "question": "What is the function of the organ on the center of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "pred": "The function of the organ on the center of this image is to store and process nutrients from the food we eat."}
+{"id": 271, "question": "Which organs/organ is part of the respiratory system in this image?", "answer": "Lung", "pred": "Lung"}
+{"id": 377, "question": "Where is the heart in this image?", "answer": "Center", "pred": "The heart is not visible in this image."}
+{"id": 40, "question": "Where is/are the abnormality located?", "answer": "Center", "pred": "Lung"}
+{"id": 100, "question": "What is the organ on the left side of this image?", "answer": "Right Lung", "pred": "Lung"}
+{"id": 227, "question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "pred": "Heart"}
+{"id": 519, "question": "What modality is used to take this image?", "answer": "MRI", "pred": "MRI"}
+{"id": 587, "question": "In what plane is this image scanned?", "answer": "Transverse Plane", "pred": "The image is scanned in the horizontal plane."}
+{"id": 324, "question": "What scanning plane does this image belong to?", "answer": "Coronal Plane", "pred": "0.0"}
+{"id": 358, "question": "Which organs appear in pairs?", "answer": "Lung", "pred": "Lungs"}
+{"id": 598, "question": "Which organs/organ in the picture belong to the digestive system?", "answer": "Rectum", "pred": "The bladder belongs to the urinary system."}
+{"id": 585, "question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "pred": "The image shows a close-up of a human body's internal organs, specifically the liver and spleen. Taking such an image can cause damage to the body, as it exposes the internal organs to radiation or other harmful substances. This can lead to potential health risks, such as cancer or other diseases. It is essential to use caution when taking such images and ensure that the necessary safety measures are in place to minimize the risk of harm."}
+{"id": 223, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "White"}
+{"id": 565, "question": "Which organ system is imaged?", "answer": "Abdomen", "pred": "Digestive"}
+{"id": 340, "question": "How many existing heart in this image?", "answer": "1", "pred": "1"}
+{"id": 635, "question": "Which part of the body does this image belong to?", "answer": "Chest", "pred": "Abdomen"}
+{"id": 339, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "White"}
+{"id": 463, "question": "What kind of symptoms will the disease on the upper right lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "pred": "Based on the image, the disease on the upper right lobe of the brain is likely to cause symptoms such as difficulty in speaking, understanding speech, or comprehending written language. This is because the upper right lobe of the brain is responsible for processing language and speech. Other symptoms may include memory loss, difficulty in reading, writing, or performing other cognitive tasks. The severity of the symptoms will depend on the extent of the damage to the brain tissue."}
+{"id": 175, "question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "pred": "Pancreas"}
+{"id": 432, "question": "What is the main cause of the disease on the right lobe of brain in this picture?", "answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors", "pred": "The main cause of the disease on the right lobe of brain in this picture is a stroke."}
+{"id": 172, "question": "Which part of the body does this image belong to?", "answer": "Abdomen", "pred": "Abdomen"}
+{"id": 106, "question": "How many kidneys in this image?", "answer": "0", "pred": "2"}
+{"id": 185, "question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "pred": "Liver"}
+{"id": 30, "question": "Where is/are the abnormality located?", "answer": "Left Lung, Lower Right", "pred": "Lung"}
+{"id": 386, "question": "Which organs appear in pairs?", "answer": "Temporal Lobe", "pred": "Lungs"}
+{"id": 394, "question": "What is the organ system visualized?", "answer": "Head", "pred": "The organ system visualized in the image is the skull and brain."}
+{"id": 322, "question": "How to prevent the occurrence of the disease on the left lobe of lung in this image?", "answer": "Quit smoking, enhance physical fitness", "pred": "To prevent the occurrence of the disease on the left lobe of lung in this image, it is essential to maintain a healthy lifestyle, including regular exercise, a balanced diet, and avoiding harmful habits such as smoking. Additionally, it is crucial to have regular check-ups and follow the advice of healthcare professionals to monitor and manage any potential health issues."}
+{"id": 450, "question": "What modality is shown in this image?", "answer": "MRI", "pred": "MRI"}
+{"id": 352, "question": "What is the effect of the center organ in this picture?", "answer": "Promote blood flow", "pred": "The center organ in the picture is the heart. It is responsible for pumping blood throughout the body, providing oxygen and nutrients to the various organs and tissues. The heart is a vital organ that plays a crucial role in maintaining the overall health and well-being of an individual."}
+{"id": 83, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "Lung"}
+{"id": 356, "question": "Which side of lung is abnormal in this image?", "answer": "Left", "pred": "Right"}
+{"id": 43, "question": "What is the largest organ in the picture?", "answer": "Lung", "pred": "Lung"}
+{"id": 171, "question": "What modality is used to take this image?", "answer": "CT", "pred": "CT Scan"}
+{"id": 166, "question": "Where is the liver?", "answer": "Left", "pred": "The liver is located in the upper right quadrant of the image."}
+{"id": 483, "question": "How many kinds of abnormalities are there in this image?", "answer": "2", "pred": "1"}
+{"id": 526, "question": "Where are the abnormalities in this image?", "answer": "Lower Left Lobe", "pred": "The abnormalities in this image are in the brain."}
+{"id": 454, "question": "What type of medical image is this?", "answer": "MRI", "pred": "MRI"}
+{"id": 304, "question": "Where is the abnormality in this image?", "answer": "Lower Left Lung", "pred": "The abnormality in this image is the presence of a large, white, and round object in the chest area."}
+{"id": 626, "question": "What is the main organ in the image?", "answer": "Brain", "pred": "Brain"}
+{"id": 34, "question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "pred": "The image shows a chest x-ray of a person with a lung cancer."}
+{"id": 420, "question": "What role does the black hollow tissue play in the human body?", "answer": "Gas delivery", "pred": "The black hollow tissue in the image is the human body's stomach. It plays a crucial role in the digestive process, as it houses the digestive organs and processes food. The stomach also helps in the absorption of nutrients and the elimination of waste products."}
+{"id": 319, "question": "What color is the lung in the picture?", "answer": "Black", "pred": "White"}
+{"id": 362, "question": "How many existing lungs in this image?", "answer": "2", "pred": "2"}
+{"id": 189, "question": "What modality is used to take this image?", "answer": "CT", "pred": "CT Scan"}
+{"id": 329, "question": "What color does the right lung show in the picture?", "answer": "Black", "pred": "White"}

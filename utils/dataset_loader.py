@@ -10,6 +10,7 @@ random_pmc = random.sample(range(0, 50000), 1000)
 class DatasetLoader:
     def __init__(self, args):
         self.dataset_name = args.dataset_name
+        self.dev = args.dev
         if self.dataset_name == "VQA-RAD":
             self.path = args.vqa_rad_path
         elif self.dataset_name == "Slake":
@@ -23,13 +24,22 @@ class DatasetLoader:
     def _load_dataset(self, dataset_name=None):
         if dataset_name in ["PATH-VQA", "VQA-RAD", "Slake"]:
             if dataset_name == "VQA-RAD":
-                file_path = os.path.join(self.path, "VQA_RAD_open.json")
+                if self.dev:
+                    file_path = os.path.join(self.path, "VQA_RAD_dev_open.json")
+                else:
+                    file_path = os.path.join(self.path, "VQA_RAD_open.json")
                 df = pd.read_json(file_path)
             elif dataset_name == "Slake":
-                file_path = os.path.join(self.path, "Slake_test_open.json")
+                if self.dev:
+                    file_path = os.path.join(self.path, "Slake_dev_open.json")
+                else:
+                    file_path = os.path.join(self.path, "Slake_test_open.json")
                 df = pd.read_json(file_path)
             else:
-                file_path = os.path.join(self.path, "PATH-VQA_test_open.json")
+                if self.dev:
+                    file_path = os.path.join(self.path, "PATH-VQA_dev_open.json")
+                else:
+                    file_path = os.path.join(self.path, "PATH-VQA_test_open.json")
                 df = pd.read_json(file_path)
             return df
         else:
